@@ -1,0 +1,26 @@
+name: update-data
+on:
+  push:
+    branches: [main]   # 파일을 올리는 즉시 1회 수집 (테스트용)
+  schedule:
+    - cron: "0 23 * * *"   # 매일 08:00 KST
+    - cron: "0 4 * * *"    # 매일 13:00 KST
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python fetch_data.py
+        env:
+          DATA_GO_KR_KEY: ${{ secrets.DATA_GO_KR_KEY }}
+      - run: |
+          git config user.name "data-bot"
+          git config user.email "data-bot@users.noreply.github.com"
+          git add data.json
+          git diff --cached --quiet || (git commit -m "update data" && git push)
