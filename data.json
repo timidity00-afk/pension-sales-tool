@@ -1,0 +1,59 @@
+{
+ "sample": true,
+ "updated": "샘플",
+ "notes": [],
+ "news": [
+  {
+   "title": "(샘플) 퇴직연금 관련 기사 제목이 여기에 표시됩니다",
+   "source": "언론사",
+   "date": "11.22 09:00",
+   "url": "https://news.google.com"
+  },
+  {
+   "title": "(샘플) 두 번째 기사",
+   "source": "언론사",
+   "date": "11.22 08:30",
+   "url": "https://news.google.com"
+  }
+ ],
+ "bids": [
+  {
+   "title": "(샘플) OO공단 퇴직연금 사업자 선정",
+   "org": "OO공단",
+   "posted": "2026-11-20 10:00:00",
+   "close": "2026-12-05 18:00:00",
+   "url": "https://www.g2b.go.kr"
+  },
+  {
+   "title": "(샘플) OO공사 DC형 퇴직연금 사업자 선정",
+   "org": "OO공사",
+   "posted": "2026-11-01 09:00:00",
+   "close": "2026-11-10 18:00:00",
+   "url": "https://www.g2b.go.kr"
+  }
+ ],
+ "news_updated": "샘플",
+ "bids_updated": "샘플",
+ "retire_updated": "샘플",
+ "retire": [
+  {
+   "company": "(샘플) OO은행",
+   "count": 2,
+   "people": "300명",
+   "latest": {
+    "title": "(샘플) OO은행 희망퇴직 신청 접수 시작",
+    "source": "언론사",
+    "date": "11.22 09:00",
+    "url": "https://news.google.com"
+   },
+   "articles": [
+    {
+     "title": "(샘플) OO은행 희망퇴직 조건 살펴보니",
+     "source": "언론사",
+     "date": "11.21 10:00",
+     "url": "https://news.google.com"
+    }
+   ]
+  }
+ ]
+}

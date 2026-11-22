@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>퇴직연금 영업노트</title>
+<style>
+:root{--ink:#14233a;--sub:#5b6778;--paper:#f7f8fa;--line:#dde2ea;--accent:#0b6e6e;--warn:#b4452a}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.55 "Apple SD Gothic Neo","Noto Sans KR","Malgun Gothic",sans-serif;padding:env(safe-area-inset-top) 0 env(safe-area-inset-bottom)}
+header,nav,main{max-width:640px;margin:auto}
+header{padding:20px 18px 8px}
+h1{font-size:22px;margin:0}
+.upd{color:var(--ink);font-size:14px;font-weight:600;margin:4px 0 0}
+.count{color:var(--sub);font-size:13px;padding-top:12px}
+#rf{font:inherit;font-size:13px;color:var(--accent);background:none;border:1px solid var(--accent);border-radius:6px;padding:2px 10px;margin-left:6px}
+.banner{background:#fff4e5;color:#7a4a00;padding:8px 18px;font-size:13px;text-align:center}
+nav{display:flex;margin-top:8px;border-bottom:1px solid var(--line)}
+nav button{flex:1;padding:12px 4px;font:inherit;font-size:15px;font-weight:600;background:none;border:0;border-bottom:3px solid transparent;color:var(--sub)}
+nav button[aria-selected=true]{color:var(--accent);border-color:var(--accent)}
+main{padding:0 18px 40px}
+ol,ul{list-style:none;margin:0;padding:0}
+li{padding:14px 0;border-bottom:1px solid var(--line)}
+a{color:inherit;text-decoration:none;font-weight:600}
+a:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.meta{color:var(--sub);font-size:13px;margin-top:2px}
+.meta span{margin-right:10px}
+.tag{font-size:12px;font-weight:700;color:var(--accent);margin-right:6px}
+.tag.end{color:var(--sub)}.tag.soon{color:var(--warn)}
+.hint{color:var(--sub);font-size:13px;margin:4px 0 0}
+details{margin-top:8px;font-size:14px}summary{color:var(--accent);cursor:pointer}
+.sub{padding:6px 0 0 4px;font-size:14px}
+.empty,.foot{color:var(--sub);font-size:14px;padding-top:16px}
+</style></head><body>
+<header><h1>퇴직연금 영업노트</h1><p class="upd"><span id="upd"></span> <button id="rf" type="button">새로고침</button></p></header>
+<div class="banner" id="sample" hidden>샘플 데이터입니다. 자동 수집이 한 번 실행되면 실제 데이터로 바뀝니다.</div>
+<nav role="tablist">
+<button role="tab" id="t-news" aria-selected="true">퇴직연금 기사</button>
+<button role="tab" id="t-bids" aria-selected="false">공공기관 공고</button>
+<button role="tab" id="t-retire" aria-selected="false">희망퇴직 현황</button>
+</nav>
+<main><div id="view"></div><div class="foot" id="foot"></div></main>
+<script>
+const $=s=>document.querySelector(s);
+const el=(t,c,x)=>{const e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e};
+const link=(u,x)=>{const a=el('a',null,x);if(/^https?:\/\//.test(u||'')){a.href=u;a.target='_blank';a.rel='noopener'}return a};
+const meta=(...p)=>{const d=el('div','meta');p.filter(Boolean).forEach(x=>d.append(el('span',null,x)));return d};
+function dday(s){const d=new Date((s||'').replace(' ','T'));if(isNaN(d))return null;return Math.ceil((d-new Date())/864e5)}
+let D={news:[],bids:[],retire:[],notes:[]},tab='news';const TABS=['news','bids','retire'];
+function render(){
+  const v=$('#view');v.replaceChildren();
+  TABS.forEach(k=>$('#t-'+k).setAttribute('aria-selected',k===tab));
+  if(tab==='news'){
+    if(!D.news.length)return v.append(el('p','empty','불러온 기사가 없습니다. 잠시 후 다시 확인해 주세요.'));
+    v.append(el('div','count','기사 '+D.news.length+'건 (수집 '+(D.news_updated||'-')+')'));const ol=el('ol');
+    D.news.forEach(n=>{const li=el('li');const h=el('div');h.append(link(n.url,n.title));li.append(h,meta(n.source,n.date));ol.append(li)});
+    v.append(ol);
+  }else if(tab==='bids'){
+    if(!D.bids.length)return v.append(el('p','empty','최근 30일 내 퇴직연금 사업자 선정 공고가 없거나 아직 불러오지 못했습니다.'));
+    v.append(el('div','count','공고 '+D.bids.length+'건 (수집 '+(D.bids_updated||'-')+')'));const ul=el('ul');
+    D.bids.forEach(b=>{const k=dday(b.close);const li=el('li');const h=el('div');
+      const t=k===null?null:k<0?el('span','tag end','마감'):el('span','tag'+(k<=3?' soon':''),k===0?'오늘 마감':'D-'+k);
+      if(t)h.append(t);h.append(link(b.url,b.title));
+      li.append(h,meta(b.org,b.posted&&'공고 '+b.posted.slice(0,10),b.close&&'마감 '+b.close.slice(0,16)));ul.append(li)});
+    v.append(ul);
+  }else{
+    if(!D.retire.length)return v.append(el('p','empty','최근 2주간 희망퇴직 관련 기사가 없거나 아직 불러오지 못했습니다.'));
+    v.append(el('div','count','기업 '+D.retire.length+'곳 (수집 '+(D.retire_updated||'-')+')'),el('p','hint','기사 제목을 기준으로 자동 분류한 현황입니다. 규모와 조건은 기사 원문에서 확인하세요.'));
+    const ul=el('ul');
+    D.retire.forEach(g=>{const li=el('li');const h=el('div');
+      h.append(el('span','tag'+(g.company.startsWith('기타')?' end':''),g.company),link(g.latest.url,g.latest.title));
+      li.append(h,meta(g.latest.source,g.latest.date,g.people&&'제목 언급 인원 '+g.people));
+      if(g.articles.length){const d=el('details');d.append(el('summary',null,'관련 기사 '+g.articles.length+'건 더 보기'));
+        g.articles.forEach(a=>{const p=el('div','sub');p.append(link(a.url,a.title));d.append(p)});li.append(d)}
+      ul.append(li)});
+    v.append(ul);
+  }
+}
+TABS.forEach(k=>$('#t-'+k).onclick=()=>{tab=k;render()});
+function load(){fetch('data.json?t='+Date.now()).then(r=>r.json()).then(d=>{D=d;
+  $('#upd').textContent=d.updated?'마지막 업데이트 '+d.updated+' (한국시간)':'';
+  $('#sample').hidden=!d.sample;
+  const f=$('#foot');f.replaceChildren();(d.notes||[]).forEach(n=>f.append(el('div',null,n)));
+  f.append(link('https://www.alioplus.go.kr','알리오에서 직접 확인하기'));
+  render()}).catch(()=>{$('#view').replaceChildren(el('p','empty','데이터를 불러오지 못했습니다. 새로고침해 주세요.'))})}
+$('#rf').onclick=load;load();
+</script></body></html>
