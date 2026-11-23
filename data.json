@@ -1,46 +1,208 @@
 {
  "news": [
   {
+   "title": "KB국민은행, 기업형 퇴직연금 수수료 전면 인하…중소·돌봄기관 문턱 낮춰",
+   "source": "글로벌에픽",
+   "date": "11.24 08:40",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyeHdRZ2NHZGpMX2R2Tmxob0FxOWVDSW5rcE5WZ2FwSndiZnBOb1NpeHBJQnlfakt4WU5NVmdvWld3SDFaTXZXQ3VnQTRHc2JZZXRHRy10X3RrcG1xN3F6Uk1Qb0FkWUxkSWtqaHIybEt4OFJ4N0lGUnV5clY?oc=5"
+  },
+  {
+   "title": "KB국민은행, 기업형 퇴직연금 수수료 최대 50% 인하…포용금융 강화",
+   "source": "퍼블릭타임스",
+   "date": "11.24 08:36",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XM1RMMFVwSVYyM3ZfNGVUZm1xM0EzQml3amN0aEtrU3lrOUlpN0sxam1Wc0NIR0Qwd0ExemNITDBjcjlzZjZxbVJOTEhhdTFUTFpWOHdwSVMxTzVxdWdCdk5mNlVBR2V4cVHSAW5BVV95cUxNcnA3NWl2Q1k2NWhsVVFhY1RjU3ZVN3ByVEJfdVpfd2dfRGdxdGdlY0dlcEQwR255MEVWYzNnd0dicmdPVGJva0lwbUpTT2lrTEpvZHA3Vm1ZQnZmVFFxN0dKUmpudTgzWWhKcUc3UQ?oc=5"
+  },
+  {
+   "title": "예금자보호 한도, 5,000만원에서 1억원으로내 통장은 어디까지 보호되나",
+   "source": "knpp.co.kr",
+   "date": "11.24 08:08",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5JWUphOVNxMWFWbUVHN2RxRDZJOXNBWXM5aUZCVTdEaGZReVF6anpvTlo3dVlPdUd6ZXlJdGpicFVPT2c?oc=5"
+  },
+  {
+   "title": "국민연금공단, 청년 눈높이 소통 확대..제18기 대학생 홍보대사 수료식",
+   "source": "한국정경신문",
+   "date": "11.24 07:59",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1USjMwUVZreHhMZ1VfUGc1Ym9tSVhlNkxvTnNpa1UzMHNYSDJIVVpzTzBnZVczakdnUGp1cWZMSGUxbDdEV0hJODNoSzZGZVQyd3c?oc=5"
+  },
+  {
+   "title": "[시장] 시스템이 일하게 하라: \"디폴트옵션의 대전환: 선택에서 자동으로\"",
+   "source": "이데일리",
+   "date": "11.24 07:02",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWjdCbFpkaHc3MW4weGdOSi1ycXByX2YwVzBIN3pGTk1xU3pkTlBBSWdmQ3lDU2dzN2RHSkZ3Ui1GVzdrcHBSTDNJMk96OEcyV1Z6ZXE1b040ZWdqNTlobUc5aTh5Yy1zUzNPR0JLUzVVbEN5Q3BsTTFFNkowNTZXTg?oc=5"
+  },
+  {
+   "title": "퇴직연금이 연 2%대 수익률에 갇힌 이유",
+   "source": "주간동아",
+   "date": "11.24 07:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1STDRPUmI0SUJwdzgxLW9qcDRUTUtReThKUzRaRE5YUVBmMWRRR0tSVnROVTRXUGNDZ2lIOU14bXIwaTZrTmtSampkV3lDTVRFMWc1a0hleGpjUko2UjFwVzBQbV9JOVk?oc=5"
+  },
+  {
+   "title": "송상은 KB증권 연금그룹장 “IRP 연 56% 성장…연금은 가입보다 관리가 중요”[퇴직연금 542조 대격변 7]",
+   "source": "이투데이",
+   "date": "11.24 06:00",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14dHo4QTNGSW5VZVFIdTJGSlZnWW5nTG5tMVB1M0JNa1MzQi1zc1ZJRjFKV19WUzBJZ2pLaFl5SDhLR29Da0l4VktHRjVzNzVDcmowVQ?oc=5"
+  },
+  {
+   "title": "\"물타기 자금마저 사라졌다\"…코스피 4700선 추락에 은행으로 몰리는 돈",
+   "source": "뉴스1",
+   "date": "11.24 05:30",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1dks5X1Q4b3hDRlg3RlptMFI2bkducXp6V18tSm5fWUFBSVQ3TFI3OGN3VEhzdGJHUDFrMnMyem5ZSHVfX0VJYWlEc1BCYzRzQkp3?oc=5"
+  },
+  {
+   "title": "401(k) ESG 조항 삭제 제안, 미 노동부",
+   "source": "토큰포스트",
+   "date": "11.24 03:39",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1adl96Ukc4NU1SUjNSZmkxcEZrRFEyT0RleWhvQkhZR09hMGE2SkhjaVdrYmYtazF2aDkzMm0wSENqcHdWS24tYXNBYTZuYlFKY2ZWZFJB0gFbQVVfeXFMTmw4UlhhV0k3S19kUFRwbjQtMDlCZkRNc3FZQWV0TkVubl90RnI2UmhNelBjeTFyWmZMXzN6cGlTV3ljWVZrRlk3MjJubjNtWjl3YzVCajFXVlJUZw?oc=5"
+  },
+  {
+   "title": "키움증권, 퇴직연금 대상 DLB 3000억원 모집",
+   "source": "비건뉴스",
+   "date": "11.24 01:40",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oZ3gzZkJocTRzLVUwanNVeVpxLXVWejc5bnRDQjVVZEZfLU1ITXRVeFJrYUFoOXBuaWVJTWNWMVpsU1RXcE1oejhDTWYtSkZHYzFSYWxZdTJVclAyY2Q3M2JqWWhXdw?oc=5"
+  },
+  {
+   "title": "같은 IRP인데… 가입방식 따라 10년 수수료 820만원 차이난다",
+   "source": "동아일보",
+   "date": "11.24 00:30",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTZ0dxWmd6ZTVzdGtrSUhWVGpfRlp5UTRLNTNSeUcydEs1UXNETTAtZXRhekxhbnlqN0ZaU0xjUERxcXl2aWotc0JqbFJNYzE2S1BKcWN5ZnAybzBQVkVGZGR0S2xZVUJjcU1Tem5TVnZvZzhGSUHSAWZBVV95cUxPbzhkcEQyNEg5LTFsMWFKRG9Da2ZLR3ZYQkFoU2pneGtBSmFsbXNNaFdfZ21LQkpIRzFmNE9rQ1FhbThFUTNVQ01USGE3UmFnMHZqWDY2czA4YUVWWWRRRWZnSnB1X1E?oc=5"
+  },
+  {
+   "title": "[단신]KB자산운용, 연금 투자 안내서 발간 外",
+   "source": "동아일보",
+   "date": "11.24 00:30",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90eFZaRlphd3hsSzV2dVlEX01NbEt2NmhrdVlUaU1wbGd0RUpSSkdUY1l5UDZrR1cwaHNTU3FBZlBVNWNoTllfWUpVYlhfaUF2aEhDcE9zYS1yOEJFM2tvTFFWUkY4aWVTbzR5dGtZSGVGZkMzUmfSAWZBVV95cUxPbHB3cThBMTM4MEJmcXNJX1NVQWxYYkpXb25Ia3Q1YmFtRllWMVVOMk1QTzNvd3hjYWxfQTBZNHZDbFUxUE1OVkhseUFlUnFYZUxCVGpMMVpGdGw4T252Y3hvQjNhM3c?oc=5"
+  },
+  {
+   "title": "퇴직연금 디폴트옵션 3년 수익률 100% 돌파",
+   "source": "국민일보",
+   "date": "11.23 21:44",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4Zk4yZTUwMU5YRWQza1Nwb1ozbFRNRE1VMHZGSnh2LTZLa2JuLS1nYThMdGMxZFBjaC1paHRwTXdqT2I3UlB4SGw2Yll1MHZKZGtvNDE5T0k?oc=5"
+  },
+  {
+   "title": "‘매월 이자주는 통장’·생활비 할인카드·퇴직연금 자동투자 서비스 출시",
+   "source": "국민일보",
+   "date": "11.23 21:44",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PZVE4SnFUOUlWZUN4REpPN3d5NHhTVTZ5V3RKUFd1NnF6dWZpN0kyNXlnVHVoQ2QxRFdpSW1yMGxMLTZFbkRMTFhwODc0M2VMNjR6d1NEVGY?oc=5"
+  },
+  {
+   "title": "KB자산운용, 연금 수령 시점서 역산하는 '내 연금 사용 설명서' 발간",
+   "source": "비즈월드",
+   "date": "11.23 19:57",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uQ0ZLdE1MRmZ1ZnVneHBlZ0R6b1g0Q3R4LVk0d2dFdTRtQ0RZRFFSUFJhSmZYMFFQMVdWWTFXVGpFaEJ0LTVyWVVDdmJ1TlQ1NmkzRUJoWEh6dlhkZGprb0EyTXhqaDBzdFE?oc=5"
+  },
+  {
+   "title": "“기금형 퇴직연금 참여 길 열리면…민간 생태계 메기 역할 할 것” [시그널]",
+   "source": "서울경제",
+   "date": "11.23 19:02",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3dUxRb2pCOHdId1RNelNXOTJXS3NfSEhkRW1KZ0h1R1ptZHpxUXM5V0V1Y0c3NEtYU2JKQnk5bHhtQTdPRWc2alZxUy1pcXJxc2fSAVNBVV95cUxQMlVBZGNXbGZjQVZfWDJMakdxUEdrNlJENWo3WW0zME1XanA4MjFGOXpKU2k3V1BRUU5UR1pkVURIb0dZbFMxMW1VS0w5ZE9qcjNMSQ?oc=5"
+  },
+  {
+   "title": "[증권 데일리] 증권사, 연말 이벤트 러시…AI·특판·연금 혜택 풍성",
+   "source": "뉴스투데이",
+   "date": "11.23 18:06",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MRHpLbFU4XzVCdXh5dVZPX1B3ak9hYzVxaWd6VEl3NWVIZFBNeFNfX1lPUmJVelRrTHdENG1ER2h5RmZ4Sk40amFaQ2p3N0VpVTNEYXprak9kcXk3YWc?oc=5"
+  },
+  {
+   "title": "한경머니×글라이드 AI 연금진단 클래스 개설",
+   "source": "TradingView",
+   "date": "11.23 17:53",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14TmhPQUZLRjRTbi10Q2p5dEpkVDMtaHlxanFXWE9rcDdkM0MtTnh6aEhpVmdCWndBOVExeTZiMHZHZVl4S3hrWDhINkJhV1JmdGV4SzhqUTdZLVl3MkotT3YxNndpNWpn?oc=5"
+  },
+  {
+   "title": "노인일자리 대기자 넘치는데…고액 연금 퇴직공무원들도 가세",
+   "source": "경기신문",
+   "date": "11.23 17:31",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLUjE2QXJDSF84cTBxRUE1X01ya19MWnNlbTlNZWFpVG4xU0docVI5QUQtei1DamtMTDlncl9RQTBuLXF1Mzd6a2ZoUmlLUVZRc2NWNTZuRTlKaDhrcUJIaXJ3?oc=5"
+  },
+  {
+   "title": "국민연금 중복수급권자 20.8만 명, 3.7만 명은 내 연금 0원인 이유는? 💸",
+   "source": "뉴닉",
+   "date": "11.23 17:06",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RQlI1aHh4NW5lMkhIa3BqLXpsZUpHeHE1VHowVmNrVlByd0h2SnhPbFlxN3lpczRBUmRXbm9PZy00ZmdSS2FLSGNhTlI2eUpPOTNr?oc=5"
+  },
+  {
+   "title": "“퇴직연금 이관에 이어 퇴직금 산정까지”수원교육지원청, 교육공무직 급여 연수 실시",
+   "source": "누리일보",
+   "date": "11.23 16:50",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlZFRSdlQybXRjTVNpWThORDl1bmVacUZiSXZRWU5jNDhKYVJ1SEZzWklTSEhTLUR0ek1yS3kxRU5DbENmby1EcEUyOTRrdTBMeDBRVzFpbVM4M1pL?oc=5"
+  },
+  {
+   "title": "KB자산운용, 연금 수령 시점부터 거꾸로 설계…투자 가이드북 발간",
+   "source": "서울타임즈뉴스",
+   "date": "11.23 16:18",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05RThxdjB3dk5kMjBLcGx4T0o5VTVCSzNDWWR0STZ4dUFLUG5qWmpTOHNiUl9JODNSbVdNazM4OXdNWkxta1hyOUw2NHZQT3BhdmUyNW5Sd1RkY1R4MVFyUjBDV29ZYWdxNktr?oc=5"
+  },
+  {
+   "title": "“내 401(k) 퇴직연금 어디에 투자됐지?”…모르면 손해 볼 수도 > 시애틀 뉴스/핫이슈",
+   "source": "SeattleN",
+   "date": "11.23 16:17",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5wY3ZibTgzekxRVDFmaDhPa1NfUnJpSnRXd2lIRVljV0JORjZVSHFZd2JPSWRHbTljSW9vY2duTDVPNGR4NjltWU5B?oc=5"
+  },
+  {
+   "title": "하나 연금닥터, 투자부터 관리까지, 평생 연금 동반자",
+   "source": "매일경제",
+   "date": "11.23 16:03",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vZDN2V3FYaTR3REl2M3RVa3FxbHRvdnJwQ2hyOHAxTEtWc2lxMmIzbzh5SVdOa2NUbEFOTTB2WXUyUHk2dlM0ektfdnNGTnl5YUZ4SXdHRDY2NUdEa2Jr?oc=5"
+  },
+  {
+   "title": "\"지금이 저가매수 기회?\"…급락장에도 퇴직연금은 여전히 '반도체 ETF'",
+   "source": "파이낸셜뉴스",
+   "date": "11.23 15:54",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpWU92LU1kUXBEaTYxd2xGOXp6WkJzN1ZGdkJPbUVFcFd4Z0RNZUV5MkVBZnlVQzJ3Yk9LcmlSajRwdmNzNktXWm5SZV9kOGxDNW13TE0yUncwZw?oc=5"
+  },
+  {
+   "title": "\"AI 패권 바뀌어도 연금은 흔들림 없이\"…한투운용, AI밸류체인 TDF 출격",
+   "source": "뉴스톱",
+   "date": "11.23 15:34",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BR2xiaVZPcmk0bS1sQ3Y4d1ltNkd5d0dVZENQaHR2RV9fVnFFR0NVM01MM0wxNTdQWV9uampTVFhWc0JWRUlSdFNVdkpKbGo3S3NPb2ZGaVAxc0poZGc?oc=5"
+  },
+  {
+   "title": "\"퇴직연금도 AI에 투자한다\"…한투운용, 신개념 TDF 출시",
+   "source": "한국경제",
+   "date": "11.23 14:47",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01ZHhnVXQxVXJRWjdqbjBHdzVld0ZWMWNuRDlqaTdDQ2pWUWZwYlU1cFJ1MXpuTnFjeDNrTXdFOF82WEVtZE1wSkJmSWdqdTJiYnBDVGMzaFdFZw?oc=5"
+  },
+  {
+   "title": "[500조 연금 새 판]⑤ 농협금융, '수탁법인·계약형' 투트랙 전략",
+   "source": "블로터",
+   "date": "11.23 14:45",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xM05xSlBWZ1VRNUsyZS1aSEtOdnBUVk1aVXBTR3VTTFhxUnRjT3daWWVaQUFjNU8zS1NHTlpYRzZIUTEwUzEzZ19Ib1E0X0t0Tk5YSmtGbmRHUnF0NUxnVmQ2bTA5U3ZCa2c3U9IBbEFVX3lxTE8xM05xSlBWZ1VRNUsyZS1aSEtOdnBUVk1aVXBTR3VTTFhxUnRjT3daWWVaQUFjNU8zS1NHTlpYRzZIUTEwUzEzZ19Ib1E0X0t0Tk5YSmtGbmRHUnF0NUxnVmQ2bTA5U3ZCa2c3Uw?oc=5"
+  },
+  {
+   "title": "국민연금 꼬박꼬박 냈는데 '0원'…맞벌이 부부 '부글부글' [머니팁]",
+   "source": "한국경제",
+   "date": "11.23 14:45",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56Yjlxb05RS0NfM0NYMXctRFIxNjNwcHpKXzd2SzFfWkNneHlZZUVrXy10S0l4M3lacDZOcUVfMmRwOU5EODF2bVhDeVJqenNEc25WRHdNUC0tdw?oc=5"
+  },
+  {
+   "title": "은행권 퇴직연금 ‘1위’ 경쟁… 정작 고객은 증권사로",
+   "source": "IT조선",
+   "date": "11.23 14:28",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sZ1poaUwtTzVlSFFzdldUVHZ6aEZTTzBlbmF5UDJjRGtSLTduMkxyYzZTSGZrTGppTXNmYzFBNTQ5RDJPRUhjeHM4bTkyYnJHbmMyVkplZk4yazJFNkdXUGNCU2tJSDNFc3RzZkp3OHZJeURi0gF0QVVfeXFMTmxnWmhpTC1PNWVIUXN2V1RUdnpoRlNPMGVuYXlQMmNEa1ItN24yTHJjNlNIZmtMamlNc2ZjMUE1NDlEMk9FSGN4czhtOTJickduYzJWSmVmTjJrMkU2R1dQY0JTa0lIM0VzdHNmSnc4dkl5RGI?oc=5"
+  },
+  {
+   "title": "내 연금 포기 안하면 유족연금 30%만 지급…형평성 논란",
+   "source": "동아일보",
+   "date": "11.23 14:25",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGMHFxVXB6WllBcldLWm1YbzVWY09ZSjZMeENTR2xTNzFKNWJndHVPanBLRS00Yk1fZnpvY2NRMVpoT2VGZ0pRcFBsWlBwYTkzZGlWdkRLRUxtZWRZOVY4V1g2dDNtZWlPNmdWWC14OFRwLUxFMWfSAWZBVV95cUxQTlA4UUY2LXFzTW9FTGNLQ0FVMWN4WUhubE01U29aU0llVlNsb1RoSFo4bktPcnhkRFY5M2ZmNU5JeXNFREhIaHVoTnFJUk9PakIyazJlYTRiYmtnekYxQnI4TDVLYlE?oc=5"
+  },
+  {
+   "title": "KB운용, '내 연금 사용 설명서' 발간...\"수령 시점부터 거꾸로 설계\"",
+   "source": "스마트투데이",
+   "date": "11.23 14:07",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81ZHBrQlBsWFVDbkZXdDhRRlBoZjBieFZOeVVPSWNpWDl5bkdSZzVsX3o1RU9sTm16ZU1BNW9fMWJydk1Db3UxSmR0cS1Wc3ZIUHZXaU94R0tLUHhCUFFN?oc=5"
+  },
+  {
    "title": "[100세 칼럼] 전문가들이 그래서 \"전업주부는 국민연금 가입 말라\"고 했구나",
    "source": "뉴스퀘스트",
    "date": "11.23 14:01",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MdUFrSlp4cHhOVzE5RF9EZW0wZWx1OUwwRWxHcDZibF9jd1F4RXlQOUJvdXk3TUo5VXg1cTRKR1NSeGo5NXNXRk5VLWhWT2ZwUEl3TGlLeTVGeGF4eVY1VE40Y3RDUTRJcExXSm9Raw?oc=5"
   },
   {
-   "title": "평생 부은 내 국민연금 '0원' 됐다...유족연금 택해 수급권 날린 3만7000명, 무슨 일",
-   "source": "파이낸셜뉴스",
-   "date": "11.23 13:49",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Fd3A1NURwaS05U2VCUU1COXlkMkFRMzVzcV9tNXJ0dlEyVGRvVE8wS1FPQjlOMEJIdERTQlRzZ1dQQnA1SExfVFVrS3FKM0NRd0dDaGMzYWlHQQ?oc=5"
-  },
-  {
-   "title": "정년 65세 논의…전남광주 일자리는 어떻게 달라질까",
-   "source": "진일보 | 전남일보",
-   "date": "11.23 13:27",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wRmZlaU01OHhaWDdURmRSMDdfam9LYTFGRlJTNHFxWTh6Ylh0ZE1IMlJGU1NyX0tuYnRreE45b3l0TGJlTGt6TENwRVl4LTBjUDNsS1ZJbFR6SG84dlkyZnQzemFueDhOc3FLQzRWQQ?oc=5"
-  },
-  {
-   "title": "내 연금·유족연금 겹친 20.8만명…3.7만명은 내 연금 '0원'",
-   "source": "연합뉴스",
-   "date": "11.23 13:08",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3VlVsSWVGakZkeHg2LUJuSTVuWWxXVzFXeWd0c2FDVFNOWTN2WlRZSFBTOUJfU1lQV2lreXNGazJ4VFpNcWk2YUhYNXYwdmplS0NQeGt5bjk2Y2_SAWBBVV95cUxOQXN6OEN5a21yTFBMdWIzcUhvcFBCVnhVbHEzdF9WR19UbFJpNVkxblNQa3BtMkJ2bDBXMk5BNXRmVldZQU9yRU9SRzB3UG91Q0VEZmRKdzlTaVE5STl1bWo?oc=5"
-  },
-  {
-   "title": "[줌인] 하나금융, 시니어 금융 넘어 생활 전반으로…주거·건강·노후관리까지 지원 확대",
-   "source": "데일리팝",
-   "date": "11.23 12:11",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95a3lUZ0dSWG5ldURHbWtCU1dicWtxWG4xYWw5dkRKYWZoWWZZTENrZ1g1ZHJEMDJ2Y1JLMGlrLUZTeVhRb25vVnp0TTJqRTVqa3pxbnVUS25XVUJGaWdvMF9lZXgtZlFR?oc=5"
-  },
-  {
    "title": "내 연금·유족연금 중복 68%↑…유족연금 선택시 내 연금은 '0원'",
    "source": "금융소비자뉴스",
    "date": "11.23 12:09",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85LUFydkxaTlltRGpoR0lXaE9OREtORkIzelJpMXQtTGIyd0kzRVV6VWpXS1hnOXU2WUxFbzR4R1N6dnIzRkFSMkkzcHFOSTUtZk14TjkwZHZBRmEweE82OElhRG9HaTFxSkE?oc=5"
-  },
-  {
-   "title": "퇴직연금 고수익 상품, 대기업·주요 고객에 주로 제시됐다",
-   "source": "데일리팝",
-   "date": "11.23 11:50",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Yem91OEJtSTk5d00xVDM4VkJVN3ZWY2FHZWtvbk4yN0MzM1NNRHhfeTNEOFdGbWFaSzZ3YU44Wl9TQnE0b3JMdFV3dmJhZDFFOHh5S1N6Nl9WOS1JbTg3Q2VmOF9TNlJC?oc=5"
   },
   {
    "title": "퇴직연금 ETF, 증시 급락에도 반도체 '사자'…상위 10개 중 6개",
@@ -67,16 +229,22 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9saXRXQlFhTjlZbWpkOF9MS3E3TEJXX1ZuYWZRcm9kMEUtNnJZaDhod1FjeTBrdnA3OFdpSm9EaHJ2Wjd5QUVBQ3hZdUNRMTB5Z2ZlekRPN0czQWpabWxRSA?oc=5"
   },
   {
-   "title": "반도체 하락장에도 돈 몰렸다…개미들이 쓸어 담은 'ETF'는?",
-   "source": "위키트리",
-   "date": "11.23 10:57",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mUUFlV2gtTHVBdmZ1VFlaUWU1RG5FTmdPd0hVXzZkN0VTVGwxVjhzbVg1YVJ1WFV3VTBXWS1oRVRsMTVlTVRZeFhwY0QwdTMwSEhUTnln?oc=5"
+   "title": "'증시 급락'에도 '삼전닉스' 산다...반도체 ETF 매수 지속세",
+   "source": "조세일보",
+   "date": "11.23 10:30",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VVFdxdzIwSWlUNlFZSDNYd1l2aXlHSFVqX2F5aHVtN1BGRFNXbGhTdnA4bnhCdWRXVmdxUFY0bVplT2p4allpaHgtSUhKVE5ZZURBODdheEZBZi1yMmhz?oc=5"
   },
   {
    "title": "KB자산운용, 은퇴 시점별 연금 전략 담은 투자 가이드북 발간",
    "source": "라이센스뉴스",
    "date": "11.23 10:07",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmWXZOdFRodW9XY1VQeERQcXFONXRWOFhMb2RzcjNERHU3c0h6WVVfSDZySGtwNTRRejN1VWUxczBPWTJ1SkRkdVc3YjFPOGJMVVp6MFE1TkxKRmd5dEEzQS1Hc254eEFYUGI4?oc=5"
+  },
+  {
+   "title": "“연금 수령 시점부터 거꾸로 설계” KB자산운용 ‘연금투자 가이드북’ 발간",
+   "source": "헤럴드경제",
+   "date": "11.23 09:54",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzVXc4SXQzbDJEaHRyczY0aHBWU3dqbkd3eFZXWEF3Z1BNMVBfSzA2Ukh4RkNjVjY0V2ptUE5UM0VaM2hyRG0yb0haenpTUmdqRkdoalBn?oc=5"
   },
   {
    "title": "주가 급락에도 노후자금은 ’반도체’…퇴직연금 ETF 순매수 지속 By EBN",
@@ -89,18 +257,6 @@
    "source": "티제이비",
    "date": "11.23 09:39",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9teHZtRGJucjFnSEFXRFRZV28zU0h5di0wWi1JQXVNNGpOZ3dabFFFUXlnSWlwQTY0c2x5REpRUkhsRmwxQk9SeXRLWFdVVEgwdm9YM3hJWXlCaW9w?oc=5"
-  },
-  {
-   "title": "배우자 사망하면 국민연금 최대 70% 삭감, 중복수급권자 20만 명 넘어",
-   "source": "ABC뉴스",
-   "date": "11.23 09:36",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvRzJaeGlNS1FYdjR5U0FpM2Y3MkFZYWgzbktDT2JZVFZwRTU2ODcyLVppVmZ3M2VuS21ZLTF4cy04R3JfX3hsb2dCZE9vbkkyQlFqRTBEb1FaaE9XQzBRLURBVdIBZ0FVX3lxTE1VSERfWmZsQ1hiSU02SDR0SDctdm9tUVNFeE9TbVU2YnhFVHNwZV9NNkpmdGZmTXA5T0FfQVo0VFhJSVFGcVdmV09QSG1uZnhNZkpWdkhmcmloYkpKMTMzalFITGd4bTQ?oc=5"
-  },
-  {
-   "title": "국민연금 중복수급자 4년 새 68% 증가…유족연금 감액 형평성 논란",
-   "source": "한스경제",
-   "date": "11.23 09:30",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53OTduTEdQR0RlZ2pMUzY3V3hucTZUa25WekM1Tzl0eldHeXZIUWxrQ1pEUktqN0l2Nk56NUY2YW04MWlCeDVJTElWcEVneXgtSndIU1hIQTV5cDVlMTdCTjFiZ2dCdGlEekZkNtIBb0FVX3lxTE1SUVJpM1IyTGJtUmpaWElQM1dpcHZXdThVMXZ2LWVIY1MzR1dRRXBOeFA0clc5czQySUJ2c19Sak9VNzc1YlVsWS1Dc3liSjVBX0FuWXI0a1pmaEd2Rm5oN0p0Vng5cGRzRmc0RVNJWQ?oc=5"
   },
   {
    "title": "내 연금 받으면 유족연금은 30%만…유족연금 택하면 내 연금은 중단",
@@ -133,30 +289,6 @@
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NRDhrQ3ZZTUltWVJZVlhtMC1jSlhpNjVWWlBlNjMwenc4WmREVUpxYUxCUmpOS0trTHc0NkJWc3JoRm4yUkMzSGVCRmZtVnA3aXQybUowQklyam5reTE4bzNuaGFVN2c?oc=5"
   },
   {
-   "title": "KB자산운용, 76쪽 연금 안내서 무료 배포…ETF 26종 소개",
-   "source": "중앙이코노미뉴스",
-   "date": "11.23 09:00",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xTUVNVHFSQkRaVFluS1VmeldMNVRaQlA1RlkyNU5NMHJjLXBTaF8wd19kWlVaQ1VsVWVnaURLMjB1TEVuNjVhQUE1RUZkd3NCaVdBX1B4a2JDQ1dJbEtuRGJvRGgxd2N1S0pvNHVucDEtZw?oc=5"
-  },
-  {
-   "title": "맞벌이 부부, 연금 선택의 딜레마에 빠지다",
-   "source": "미디어시시비비",
-   "date": "11.23 08:58",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KazFLRkJXWm01SnF5eHBSVkE1VlpEeUI5Y2tkeW5hemZ5U2FDR1F2ekUwdXV5Uk14VFlhZ3oyd0VBXzJVc2tfLUg4Y2cxSEpFaTFrbnZZMGNKQTlGZXFUdlJuaktOT0dKQzk4eFRMLXpwZw?oc=5"
-  },
-  {
-   "title": "KB운용, '내 연금 사용 설명서' 발간…“수령 시점부터 거꾸로 설계”",
-   "source": "아시아경제",
-   "date": "11.23 08:58",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10VmRpdEdjNzBOWFFoQnlPRWZsdU5YY1lQMXk5dHhFZWdtVjQ0M3lNdE9Cd2hVR2tzUFl0VmhCQUlJbGpuNy0zWjhyX1llMmdvejBlaTRQTFh5akRaQ1RLUmZB?oc=5"
-  },
-  {
-   "title": "KB운용 “연금 수령 시점부터 거꾸로 설계”...연금투자 가이드북 발간",
-   "source": "파이낸셜투데이",
-   "date": "11.23 08:51",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iLVM0RDRqV1d1MmxIOWlGa3h4SG1WaGtiRGRSSlRkWm9JSE1JMjhEQkVyeks4Y1N5UUh2T1d3aU9QT2p1NFBhc0d5LVJWeDRNSDBjZ1M5cUtGQkVFdzNwR29wM082ejJETEHSAW5BVV95cUxQTHh3eEVHYVFyNmlMWTI3cnJNODBlNGNyS0RPVEVGQ21BVzhXM2pFYUJXWXNWWUMteFI0WE5pcU9tOWFkRW94MllmZG5GWkZIUjdtVDd4bURPSUhVcEtHdnpMay1BMTZrTEoyOWtIdw?oc=5"
-  },
-  {
    "title": "“연금, 거꾸로 설계하라”…KB자산운용 ‘내 연금 사용 설명서’ 발간",
    "source": "글로벌이코노믹",
    "date": "11.23 08:48",
@@ -181,18 +313,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mbGNFWTJxY1ktUV9qV1NUcjQzN2liN3J3OG92VWw3SWZETE9GeWZiandoS050V1FxMFZqaE5YdHhEbVJoX005MnN6eldTUkJiVXh1eg?oc=5"
   },
   {
-   "title": "KB운용 \"연금, 수령 시점부터 역산하라\"…'내 연금 사용 설명서' 발간",
-   "source": "서울경제TV",
-   "date": "11.23 08:37",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LcG51bjdNcEg4VHYxTm0zRVJYb1M2WWJic1VTNDc4c3lwR1NxSUx5WlB0Qm9wOUNpWEdmZGRVMEpGSVhVVnRId3JkdWd2T05XTTJMV3UycWhfaDl4OEYza1k1SVE?oc=5"
-  },
-  {
-   "title": "맞벌이 늘고 연금 권리 겹치는데…중복급여 조정은 제자리",
-   "source": "파이낸셜포스트",
-   "date": "11.23 08:34",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yS0V5Y0tWeWMxX01HZGF0b3c5bk9WVnl1V1F2ajkzY0x4NTItYUVsS2V6THhfaGhBWVdSTUs0a3M0NDJkZ3I3aEZfTlY3WmpneFB0dE5TNkVXOFNzWXhYVjlSSmk3NEZ1R2twaVpVZTFxRUxm?oc=5"
-  },
-  {
    "title": "주가 폭락에도 은행 퇴직연금으로 반도체 ETF 순매수",
    "source": "파이낸스투데이",
    "date": "11.23 08:16",
@@ -209,12 +329,6 @@
    "source": "마켓인",
    "date": "11.23 08:13",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IMWpVTlVxdS10cGZBVWNtZ2Y2Q2dqZXI3aWhBSnpnSFh4c2dvNzZkNzNIcVctamh3dHhPZmlHdGtkM2NHMGRjWVFDU01Vd0Npa2FQY2ZTaHZNdnFmeVNERXBMUnE4RGhfdXdiLWF6eXVqWUE?oc=5"
-  },
-  {
-   "title": "국민연금 중복수급권자 20만8242명…3만6695명 본인 연금 지급정지",
-   "source": "싱글리스트",
-   "date": "11.23 08:04",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hTHhQaWdOQWM3b2JvbHVVVUZ4Vmw5R0JMNVVRdW90MnptNWlGSGdJTFI5UHRfOHViT01NV0V0SmNsUGNUZUtsVUtpSU5NU1NSdUtmRG55TG1JSGM5VGJaT0V1YW9fQQ?oc=5"
   },
   {
    "title": "안정성만으론 부족···은행의 연금 승부수③",
@@ -238,7 +352,7 @@
    "title": "퇴직급여 체불 막고 수급권 보호… 기존 퇴직금도 사외적립 추진",
    "source": "일요서울i",
    "date": "11.23 07:50",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yQ1BTQVlTeFJxSUhMM2s0NVJuQVFsZmk2UTRvWGhFXzVEZDZPSjdWdm1IbnJCdWpDeko1eEd1NWxEQnJFZTBvU0pJaTlpWnZ2WWhjb1AwR0JKUmRxekx6ZlFZM0RwQ2pPSnNuOFZB?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfSWZVeVgwRV9pQWpRNm83d2h2SmNSdmtFeFR2Q0pTQkw4dXFwTmFaQ2lOeEotZENBc3Z3OWJwM0JIS0lHUjFIOWYyekpsaEgydF9fN3BMbkxSZkszREpkRWtHXzFNVFRJbXF3a1FEYw?oc=5"
   },
   {
    "title": "국민연금 부부 사별 땐 유족연금 70% 삭감⋯직역연금은 50%",
@@ -253,6 +367,12 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aNGUxZ2ljamRtQzA2M1p0N3o0ZHR2LXRUR2F6UTlEMEV1Tklrd1RVSlI4aWtvQXhfQU9UZmtvV3VmSV9hOW9ySmUxUGYyakFvN3l1bGRCSXpyUQ?oc=5"
   },
   {
+   "title": "길게 보면 역시 반도체 투자?…퇴직연금서 ETF 순매수 여전",
+   "source": "매일경제TV",
+   "date": "11.23 07:25",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwWjRId24yVnpNbzNEeE44YUJNQWNNTV8wSVNkMS1mblUxMk4yMU9NLTdqMEhtZHcyX2p0bFFFSDRYcGZSNDBONDNZQmVMT25XV0JZS1hCbk96a3pXTUwtSHJaN3I5ZkdN?oc=5"
+  },
+  {
    "title": "반도체주 급락에도 퇴직연금은 샀다…하반기 들어 투자 열기는 ‘뚝’",
    "source": "매일경제",
    "date": "11.23 07:15",
@@ -265,10 +385,22 @@
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CSmpERWE4cjZPdWVGNkpMdkZIY01vaUhsSW1DelgzVmkwTHBOdjdfUTB2VlNrYVNTMFY1SjBxUnRlSE00WVNHN0lBaDBweE1ZWFJqZWQxaHY1dEZDTHlZQ21zd1B4TkhsS3VFbVhoYw?oc=5"
   },
   {
-   "title": "배우자 떠나고 유족연금 택했더니…3.7만명, 평생 낸 ‘내 국민연금’은 0원 됐다",
+   "title": "'하닉은 되던데…' 절세혜택 못 받는 삼전 성과급, 받아도 삼성증권에만 넣어라?",
+   "source": "인베스트조선",
+   "date": "11.23 07:00",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa0tya0hJdDZad0JzWlR3NW00ZGhiREQ4eGJkVHNkV1NJeFNfVW0zaW85TndGR2NiUmpOU3JOTzA2b3pmMUFIdnVabWxLazNBem9NNk5KMXZCU291el9FVHU2Z0JJRENTekhVbVkzMUNCcW1obWZ5bzNGUmdtS3htNjJ2bw?oc=5"
+  },
+  {
+   "title": "배우자 떠나 유족연금 택하니…평생 낸 ‘내 국민연금’ 0원 된 3.7만명",
    "source": "www.dt.co.kr",
    "date": "11.23 06:37",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9RR1BRR2hueFFiS2l1MktoUG16RTZjamlmRUsxbXZ5RDBqZkFYdC1HRVVOLXlkNFpHTVB2UFlSUXZocGwyZ2VlRmZLWUFWQQ?oc=5"
+  },
+  {
+   "title": "내 연금·유족연금 겹친 20.8만명…3.7만명은 내 연금 '0원'",
+   "source": "연합뉴스",
+   "date": "11.23 06:11",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3VlVsSWVGakZkeHg2LUJuSTVuWWxXVzFXeWd0c2FDVFNOWTN2WlRZSFBTOUJfU1lQV2lreXNGazJ4VFpNcWk2YUhYNXYwdmplS0NQeGt5bjk2Y2_SAWBBVV95cUxOQXN6OEN5a21yTFBMdWIzcUhvcFBCVnhVbHEzdF9WR19UbFJpNVkxblNQa3BtMkJ2bDBXMk5BNXRmVldZQU9yRU9SRzB3UG91Q0VEZmRKdzlTaVE5STl1bWo?oc=5"
   },
   {
    "title": "주가 급락에도 퇴직연금은 반도체 ETF 계속 담았다 : 금융",
@@ -277,7 +409,7 @@
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBET3ExaHAycEs4MUVaVUI0d3BDZXNDVW5FWGhacWFBdG1LTGhXR3JqQlY2c0VvNDAybWlRWXhJNWpaRk0yR0JZbTdsdw?oc=5"
   },
   {
-   "title": "금감원 경고에도…하나은행 퇴직연금 '과당 경쟁'",
+   "title": "금감원 경고에도…은행 퇴직연금 '과당 경쟁'",
    "source": "뉴스토마토",
    "date": "11.23 06:00",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tX0lJOTZjRlBsWk0wc0lYX1g0TlVuVDFOb3Q4RjZRMEppTl9RbnhnV3VaY3pfN2kzamlFRjg2RWtabGdrODEtLUprSUhGaG5QVnk4SldKUERkcEFuVkFaUQ?oc=5"
@@ -298,7 +430,7 @@
    "title": "주가급락에도 노후자금 반도체 선호 여전…ETF 순매수 지속",
    "source": "연합뉴스",
    "date": "11.23 05:55",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83QzN6MlRuMUpBUm0tM1JyNkpTaUFSVGZrbnRTZ1U1S2E2RnZsbU9pZTUzMGlIdk5yWUtjSG1JWVExTjJHbFVpZzgzcWhOV3BrdXBweHg5Q0Q4SHZNZEttUQ?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53bDdFUFl0N0hIMVpRbndzd2gzclBBLUU4QS0zZE9XQW5sUGxIQXE5VGJsWFk1ZmRwdWlRejVqc0NBM0JBWkx2RHIyc0JJNEJlWG1FT2trRkkxcFU?oc=5"
   },
   {
    "title": "주식 물리고 이자 늘고 고물가까지…가계 덮친 '3중고'",
@@ -331,12 +463,6 @@
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWHcxR1ZGMW92RTh0cFRtYzJoTG1qRVJGSVRkY3hIUmhzOGh5NC1lTEdUcWZ3cHJJbDlTUDFZMTRIZDVHdUNncXJiTW9uUVhmajFldUFId29vVXpIX2RndkxwWWhaQUpuVldFN1dKWHgxek84b2VMMFBKVEc4bXFBWA?oc=5"
   },
   {
-   "title": "[재테크 특집] 연금 운용 로보어드바이저 8.2조 돌파",
-   "source": "세계일보",
-   "date": "11.22 22:30",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JckQ3X2NnSUhnVHlLS012QW9mMVZlTGJIY3YzeGJfcWp1OERObTBTTmU2YUdvR2Rla0dXOHpaTkY1OFhncDdLQVhZaWRGcjZQYkRiNFpkNHlfY29yaDV5SXVjQUJ0ZkFIdllj0gFUQVVfeXFMT3E0SllLZU9NX0Q3QnNtbk9Fa08zbjZLdUtidVlFNTlVZFpPdXNPNVVJZjRHUnR1XzJCSVMzcThpdU1vSmh5akNxb244bnY2NXk2YlBU?oc=5"
-  },
-  {
    "title": "[연금술사]정년은 65세로 늘린다는데…국민연금은",
    "source": "이데일리",
    "date": "11.22 19:16",
@@ -355,7 +481,7 @@
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MUWZYLTlQUGVTeUVkREY2OVkzSlBocVNvdVUwM3BSeXRxRGxHazhKb3AxX29FNjlLRXluX3lSODNRVWxvUTM3VHZuUWdVRHU3ZXJGUXY3ZGoxLWpzVDR0YTQ2a0g4SWRDNTJCTEdEZ0lscTA?oc=5"
   },
   {
-   "title": "키움證의 퇴직연금 “고객이 먼저 신청해요”",
+   "title": "키움證 “퇴직연금, 고객이 먼저 신청해요”",
    "source": "서울경제",
    "date": "11.22 17:53",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LTFljWEFheGlmSWtkeGlrcWdocWN0aGpoQzJtT3R3end6MmM5OEpacHFoT1dyWVFXZmdWcEZaUmFoS0NxaHZuRFhOaTdmSmdNbmfSAVNBVV95cUxPX285d2kwMDN3LXEzSnlFVUxFNUVaN054YTZTc0szNXdUZFczbkprc2VickY5NFpybTF1WEs2ZjgzakZSTnhPaEpkdHY3Z1hDd2t0bw?oc=5"
@@ -371,12 +497,6 @@
    "source": "전자신문",
    "date": "11.22 14:00",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5obzE5VmctbVV5Ti1DQmo5U3lXZjZEdzk1WENFNGs1TUdUaEZMeFh0bTJwNmRKSmpIbjlZeEtoUFY4MzZJSkhKTFBZeU9Odw?oc=5"
-  },
-  {
-   "title": "“내 401(k) 퇴직연금 어디에 투자됐지?”…모르면 손해 볼 수도 > 시애틀 뉴스/핫이슈",
-   "source": "SeattleN",
-   "date": "11.22 11:55",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5wY3ZibTgzekxRVDFmaDhPa1NfUnJpSnRXd2lIRVljV0JORjZVSHFZd2JPSWRHbTljSW9vY2duTDVPNGR4NjltWU5B?oc=5"
   },
   {
    "title": "노후자금 몰빵했는데 어쩌나…25% 추락한 ETF 정체 [김연지의 연금빌드업]",
@@ -403,12 +523,6 @@
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOdUlab3lNX1ZRUzJyWXhWX0xabmpfbi1XTHZKdlNSZ3VEY2wwTDRnS0c2OFJhMk0waVNET0JyT01STGU5VVUzMDJNLVBibjA4cEFfWlJRY3ZVMmZNdHZyLVNxTQ?oc=5"
   },
   {
-   "title": "퇴직한 남편 먼저? 돈 버는 아내 먼저? 노후 준비에 순서 있을까 [재테크 Lab]",
-   "source": "더스쿠프",
-   "date": "11.21 19:47",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nNlJ6U2xaRl9OeWVTU3JILS0xZ3dQMENmWDVWZ1hodzVZMXN2ak1fNHh1RXJONWE2TkVIZFQ4QVNDOVZMVE42Q2pVUzI0RmdfaVR4Q1dpTHNsSnp2TUFBQ2k3bG0zendhUHNhS0FR?oc=5"
-  },
-  {
    "title": "퇴직연금 500조, 예금에서 투자로…기금형·디폴트옵션 ‘판 바꾼다’",
    "source": "쿠키뉴스",
    "date": "11.21 18:52",
@@ -421,76 +535,10 @@
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1RWFsYmpSd2paT2RqM2dTeVJBbU1ZOExfd0xjYU03cVhHSXQ3TTFWZVlEeU1kVkxWV0E2SFpwMjVXVG1KUHhxX3l3M05URDRmLVRjNWhsS0dCdnBwZ0dlMU1jOTViSnp6V0dz?oc=5"
   },
   {
-   "title": "퇴직연금 옮기려니 '내년까지 미뤄달라'…은행 실적 압박에 고객 선택권 '뒷전'",
-   "source": "데일리한국",
-   "date": "11.21 09:00",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IOFhKYnF2ZTNKekFSeXRzTkk5eGZUWUN2bTF4QW1uVTVNYXR2ekM5UXluMkU1NWhyWGVKMVlucEVrYk5HcV85cjBjVzBsNkJqdXdGNl9kbWl1TS1mSVFsTXZBOFN3bVd0bEFmeXA2MNIBc0FVX3lxTE5vVGx0VXdJOEpiMVdaZnNvcTVCbFUwQjJWYWNGaVI1R3M4dW0xcmJ5YXNkcXBoUUUzVTFQcU1OQl9jWUc5OTF1NTBXeURrM3dGZDJWU1VfVHJFbjc2UENta1lDZ2NuRkkzdlFJY25aV1B1RG8?oc=5"
-  },
-  {
    "title": "KB손보, 퇴직연금 외부공급 2조5302억원…계열사 2.3배",
    "source": "PRESS9",
    "date": "11.21 09:00",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BVFVUQWxPUEtFZEg5RmtaNDNHbldINU14T0FkTjZvRmZvWmN6MERaWU5ab0tORUpvaWVlLURrd0VtcTdjbFAxMXJHLUFDM1R3WkVVQVFFX0lvcFBZS2UzUmtwMWE?oc=5"
-  },
-  {
-   "title": "[재테크 첫걸음] DB형 or DC형? 내 퇴직연금, 어느 쪽이 잘 굴러갈까",
-   "source": "파이낸셜포스트",
-   "date": "11.21 07:00",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fTUFKMHBtZ3piTzRncWxXSjFSbGI1UzFIendOVldoRHFjM3dJdUg1cjVheldBM3R5aGZ0UVhOcHpvaWNQVjR4S21GWVZzRUpCcUJVc19HOUgxdW5EVzQyU1RfbWxlYUZlSUpLcTRSUEV6M3Nf?oc=5"
-  },
-  {
-   "title": "사우스웨스트 가스, 임원 퇴직연금·이연보수제도 개편 및 정관 개정",
-   "source": "데이터투자",
-   "date": "11.21 06:28",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01T2NjSnZLME8xZGhLS3p6ZkVqZFI0SHZWWGN2WGxqbzhJZno3ZFpmV1BGS0ZfWWxyWDdfdVM4NlE4RlBFVGprWkhwNzlrYUtNTUlDSFZoVzdHUFZKaS1pdTlBSTRGc2hJUmk1cXA2RzlzQms?oc=5"
-  },
-  {
-   "title": "퇴직금 체불 걱정 줄이려면? 회사 밖 적립부터 기금형 퇴직연금까지",
-   "source": "대한민국 정책브리핑",
-   "date": "11.21 03:20",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPYWszNmhkTVNVUnNPbGNDb1doOTRYTzlNRzV3MlJjYnVBQXBWUlJiUUc4NE9EengzdVNmN3pEMEN6ZF90UllDRkM5RG1sanhXV2VwSGk3aTVSOWhzQmV5TjB1NFhRWnhh?oc=5"
-  },
-  {
-   "title": "정부, 연금 구조개혁 논의 재개…범부처 TF 1년2개월 만에 가동",
-   "source": "쿠키뉴스",
-   "date": "11.20 21:55",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mXzlReFp3WlZkVUZFNDNfVUNNTDJibERheFkwTnpmRnNoUnJ4SlhscFUtTmt6SzVzTFB0UU01ZE1HVlB5b203TUdpaFdHdnkycTFTLTZadXBva2FmX0JTc1dYMA?oc=5"
-  },
-  {
-   "title": "11월 20일 NH올원뱅크 디깅퀴즈 정답…퇴직연금 적립금 문항",
-   "source": "비건뉴스",
-   "date": "11.20 21:03",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85TUhKREcyV0VOSnNJUTJIV0FLOEdHdEpMTmlqNmF4Z1ZPVEJ0NklfN196RGdlSktfQmtnNFkzNWFFTUJORHlvZHRoS2podWNXdDh3Qjg1Tkk2dEFuVmxSbmdTbHBLUQ?oc=5"
-  },
-  {
-   "title": "연금 계좌 채우고 상품권도 챙기자 [S머니+]",
-   "source": "서울경제",
-   "date": "11.20 18:20",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VVk5wNDc1cFRKdWtiN2NJUnNudjd3MzF0T1RhYTRYdGNRck1Ib3haQ0F6SUI2LWpxRDRtYTdhTEpNZnJBWlY4U0hFeHBxZlA5dUHSAVNBVV95cUxQN19DU0pPLXY3b1pRRXNuSXpyVm55Q0FMbW1CdW5UdUcxZXF6NVRwcnp5alB4WXVlRVNzdmtxV1I5cml3V253bkthUHFyRE1Hb1gxOA?oc=5"
-  },
-  {
-   "title": "“퇴직연금까지 몰빵했는데”…한달반새 30% 빠져도 손놓은 정부",
-   "source": "서울경제",
-   "date": "11.20 17:46",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41bTZPTzRoOGRhYzRTVllQcXJYY2w2bV8xc09OblhBUFBPUlUxcWI1Sy0xU3hpQVFFR1F1YkNnRlQzYUdMRFNwT0JCRV9hMWUxYnfSAVNBVV95cUxPalBzak1LVjRhdkZoaUo2b1hXZm9QR2I2WUoyX1JWUTd2YnhVYnptbEhFZkM3SjIycnJOYjlPSXRELVFFejJBak9uYzZweGdsRFo2cw?oc=5"
-  },
-  {
-   "title": "국민연금공단 '기초연금 온라인 신청' 개편 알린다",
-   "source": "세이프머니",
-   "date": "11.20 16:27",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LaUo1ZGluYUFkN29pZEh1ajNiWGl6VEF2STM5UUNndmtLbFo0N3ZUQkNlT1pSZ21aa0RxSTF0b251RHlHX0EybFNnb3IwVWNfNXN1ZnJxbjk2QW9wZ1lmc1k5SHNfU1BKeWt1d2ZR?oc=5"
-  },
-  {
-   "title": "81개 기업 퇴직연금 담당자 모은 미래에셋생명…교육 뒤엔 상담",
-   "source": "뉴스저널리즘",
-   "date": "11.20 16:01",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aU1huU3hvMGpLZW1IRnFfSnk0MEhiVWY4a0RmZTNNNURXd3hYc2lqWk1WRjZXa0VNM2VSRDJRQ0FQVWRzQVJoTmxmZUo2WkpFTkI3VEN6UEZZU19ZWk1wc1M0M3A0V2J3NzI4?oc=5"
-  },
-  {
-   "title": "금감원 대기업 고수익 퇴직연금 몰아주기 엄정 대응 : 금융",
-   "source": "재경일보",
-   "date": "11.20 14:30",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9adGREWFR1eDRWT3JSdEpIRWZOb0JickhWMWNvNHJzSHJkMTRqYTNoUGpQMU5IYzQzNnhiM0ZHcTR1aDdGaHRpRnkwMA?oc=5"
   }
  ],
  "bids": [
@@ -519,23 +567,23 @@
    "count": 3,
    "people": "",
    "latest": {
-    "title": "SK·롯데·LG·한국GM까지…대기업 희망퇴직 확산, 최대 40개월치 급여 제시",
-    "source": "핀포인트뉴스",
-    "date": "11.11 17:00",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vb3dXaG10REVYV0ZEaW5SM1RiYXpxVDd4eklXRmg5eTV0NDZrMDhYZlR5REk4ZVozaWRqOVR1eTJHR0Y0c2l0SGQtaTBJSVMwRF9rXzZndVZLbW0tbGlfaTZtYXdaRlgtTnlNTlZXUHZjLXPSAXdBVV95cUxPSVRBRy1UVC14VG0wNFh1VEttX1UzMGpxU3FoVTdCem15SmNHUFdMQ1EyRW5rNk90bjNxdExoRTRZd0Zlb1UxV1pxMXpZNDQwVWgyR3VaSE1WcFNLT2lDd0lVZW1GeTBuM1RCaGVYSllab0tob256bw?oc=5"
+    "title": "하이트진로·롯데칠성 연말 희망퇴직, 인건비 덜어도 '공장 고정비'는 그대로",
+    "source": "폴리뉴스 Polinews",
+    "date": "11.23 18:03",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kYWpnNGdSVlMwRy1RZk9pYVpTNFhLeVRrb2RMTTFoRS1UaXBJUmNtU2s0a2hwTjdBeUpibU93elRIOXlDMm5nUVZvSFJwblBpZ3ZLWG52T2VHQXlSYjctYzNCUlNNMzhpSF9neFNn?oc=5"
    },
    "articles": [
+    {
+     "title": "SK·롯데·LG·한국GM까지…대기업 희망퇴직 확산, 최대 40개월치 급여 제시",
+     "source": "핀포인트뉴스",
+     "date": "11.11 17:00",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vb3dXaG10REVYV0ZEaW5SM1RiYXpxVDd4eklXRmg5eTV0NDZrMDhYZlR5REk4ZVozaWRqOVR1eTJHR0Y0c2l0SGQtaTBJSVMwRF9rXzZndVZLbW0tbGlfaTZtYXdaRlgtTnlNTlZXUHZjLXPSAXdBVV95cUxPSVRBRy1UVC14VG0wNFh1VEttX1UzMGpxU3FoVTdCem15SmNHUFdMQ1EyRW5rNk90bjNxdExoRTRZd0Zlb1UxV1pxMXpZNDQwVWgyR3VaSE1WcFNLT2lDd0lVZW1GeTBuM1RCaGVYSllab0tob256bw?oc=5"
+    },
     {
      "title": "롯데하이마트, 영업익 71% 급감에 희망퇴직까지…김종윤號 경영 쇄신 '난항'",
      "source": "산경투데이",
      "date": "11.10 13:23",
      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xa1pXd21lbGF2R0pVRVQyampkdWJkamh3WWJ5UTdQMTRDUm8zRnJDcmthWkVubG16c2NrbW51QTJOZ2k4XzN1aUU0YTRzRUhuY1lLTi1Tam9qSldqN1FNNFZGcm9PbkZ4UG9Bck1aR23SAXRBVV95cUxPZVVNd0ZpcFB1WDdFOHhOai1WeHlxT3lFUHVzekktRVExOElzLVlfQmZiWERwZXBwLW9YUlozNDZQdnVRZ0lFUE5FdVBUcDlJYjNWNkdSbWpGUDhjNHBrR0xlcWR0YWZsRlBhMDRSMllMSjg4Zw?oc=5"
-    },
-    {
-     "title": "“롯데쇼핑, 3분기 턴어라운드 무색…4분기 ‘희망퇴직·물류 비용’ 악재 겹쳤다”",
-     "source": "뉴스퀘스트",
-     "date": "11.09 17:00",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3RTFtRVl2MUlKbGJ6RTFGWXRrNE9XdnZJajNJaEVhU3lnTkhPZGJsb180MHNpTmF6RndWdzFrWjJHOXBrc2tXbkxHM3E1VE9RRnBxeXlNaHBFLVhTU2tvUkF5T2FjcE9NdmxVbjNnUQ?oc=5"
     }
    ]
   },
@@ -553,50 +601,50 @@
   },
   {
    "company": "기타 기업",
-   "count": 64,
+   "count": 66,
    "people": "",
    "latest": {
-    "title": "실적 나빠도 좋아도 희망퇴직…구조조정 전략이 변한다",
-    "source": "대한데일리",
-    "date": "11.23 10:58",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtVXJjNV9EVl9hVzBrVjQybHpyMVNyTjVGaUw5V0VqY05mQUxUbE9WX3NpbWR1OUloV2xhRng1WHhGLVJES0dvcEd1bnhXMGE5bkJqNEN0RlBjQ3dTWnJ5RGZLZ0Jxa19sb0JZ?oc=5"
+    "title": "SKT, 50대 이상 직원 대상 희망퇴직",
+    "source": "IT조선",
+    "date": "11.23 17:58",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DdFd2WDRBUUNYdU4yV01WeHRnNjdLZ2xXSVg0cERZQ0c0cFBJejg0Zy1naEFHWTJUUDN0amlVOEZ4QlFSOVRqWkNXTVJFWHloVFh2V096NWx3TFNMN1l0ZzllNUNBQTB2cVVtZGtjWk03NkZ30gF0QVVfeXFMTUN0V3ZYNEFRQ1h1TjJXTVZ4dGc2N0tnbFdJWDRwRFlDRzRwUEl6ODRnLWdoQUdZMlRQM3RqaVU4RnhCUVI5VGpaQ1dNUkVYeWhUWHZXT3o1bHdMU0w3WXRnOWU1Q0FBMHZxVW1ka2NaTTc2Rnc?oc=5"
    },
    "articles": [
     {
-     "title": "내수기업 희망퇴직 칼바람… 가계 소비도 ‘한파’ [심층기획-수출 1조달러 시대]",
-     "source": "세계일보",
-     "date": "11.22 19:20",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UUlVrNkRoVmRqNVdIWEpYZ0l5UjN2T0NoSDNSS3kxbXlUeXpRODExNUF4Zjc3MnpUb1RGN1BLdmJSRWVGVUQwa3FqUGxwZWx3SFdDVNIBVEFVX3lxTE1UUlVrNkRoVmRqNVdIWEpYZ0l5UjN2T0NoSDNSS3kxbXlUeXpRODExNUF4Zjc3MnpUb1RGN1BLdmJSRWVGVUQwa3FqUGxwZWx3SFdDVA?oc=5"
+     "title": "SK텔레콤, 50대 이상 희망퇴직 추진",
+     "source": "Chosunbiz",
+     "date": "11.23 17:58",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRGR4NHdrMFRsbWpUdUJnRFZBcTkzLUdnUTFwZUQtUU1uaGo4VVZqbHVXaWt0LV9qTlJFdUZ6Si02eGJCTzhhR0VnM2hsMC1ZOVhjTDVPNzBWQ0RNSU9lV2tRTThueFh0U1VOVHFMWlRCMW5IbG5VRzVick9rZXFMRkhR0gGWAUFVX3lxTE9SR2MzWHY3cnRGWGprS0pmSXFLc3VYZFFiVlJQdzF4RnFtcTdOdzF4Ny1QalV0VTdyLXg2TUc1UW9TanJEbVZRYzMtZTFFR1VudmxwRC0wQWJTM0NSYzgxRzFMaGVoWFczbjZoc3hHdXdEN1FrX2JWbHNETmJTU3RvZmNINTFScl8xWmZXQTVkdEZQdDQ4UQ?oc=5"
     },
     {
-     "title": "[인력 줄이는 K게임] 누구는 3년치, 누구는 두 달치…게임사 희망퇴직도 '복불복' : 네이버 블로그",
-     "source": "Naver Blog",
-     "date": "11.22 17:56",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcVN5enh0YjVPTnVUa2ZIWXNDTU4wa0luMEVDbzZnZHhCa3RmZzZseWpUYlAxLVprMkU2Z2FpNEpzM1RFbUZWWWJfZS12a3pIOXR4Sk9UclpUV3R4STl4YWpCYmNKOE9pcUc0NDFFUEN5aHNqRE1LMVd1T18wUE9BTy1sUXZwM0sxR2dybDZ4Zw?oc=5"
+     "title": "“50대 이상 나가면 3년치 월급”…SKT, 희망퇴직 받는다",
+     "source": "이데일리",
+     "date": "11.23 17:55",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbXJidGJrRWVYb0tvYlZfRGdLbE5SVzhFWXBiWXJuQzE3N1l1am5IZDBna1NxRlFTUGIzOG95VVJUQlN3N1JxYzZ5dFpvSWlYdzJnLTliQVdRaXFnMGhQaEZvTkJrUnJzVGJZMEt6Zl9MZTFVV29Ub291NFJ4M1NXag?oc=5"
     },
     {
-     "title": "식품업계 덮친 비용 절감 압박···희망퇴직·조직 통폐합 확산",
-     "source": "서울파이낸스",
-     "date": "11.22 09:00",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nT3BPTEpCcmtDSFo0SzdYd1hwRnRFQ1p1R1BFdW1ESHZmVUZDU1hIdnp2SDhIelpXX0JtVHVoY0YyQURDRTNrUFVCZzlJTjNIb0NNd1Z2aTFnQzg4bVpObkNyaEpkUTNpVGc?oc=5"
+     "title": "정년 65세 외치는 정치권, 40대 희망퇴직 받는 대기업…엇갈린 고용 현실",
+     "source": "스트레이트뉴스",
+     "date": "11.23 17:51",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yZ05FSEhUTkFxNFVmeGZwdmV3MUJ1aDhaSjNnTk1MY3FHUVFEaXdSdU1yak8yYVd3c0k0UWNVQXdoWU9hZlVhNVdlbmV1TExjV3QzYmpvQnNGYXpRSDhlTTZtcTNVc181RmhERnhGeFBkUTTSAXdBVV95cUxNZUdPXzc3U0N0Vlo4QllTUHBpamV1UWlDU0hrLUtGRV9kVVBUV1ROekpYc3BCUHNsYm55UnhTV3N2QkU4TXlPRDR6bnpJUVNqd2FvNlpqZkZzTVhwODVJLTBmTmQ4U1pxTFBrVllQYnZMODVXaFg5bw?oc=5"
     },
     {
-     "title": "90년대생도 희망퇴직 대상?…석화업계 장기 불황에 `곡소리`",
-     "source": "디지털데일리",
-     "date": "11.21 07:00",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrV2hSYmdQV0V5dHhNRV9qQ1ZxcGNmNElzSVhOb3ZLUkpNV2RiOGlMaE5lMld2LWQzZzRwbzY0dlVlemhhSzlhWG42Z0doN3pqLUZYcTVlemRXcjk1c1BLWFF0LUU?oc=5"
+     "title": "SKT, 50대 이상 희망퇴직 시행…인력구조 재정비",
+     "source": "매일일보",
+     "date": "11.23 17:26",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tY0hGRlBfcW5rUFNqU0ZOQjZvLUJiUjBhUVc1MWtxZEhGODlpWUJ5cmF1dGhsLUs3akxFcDhnQ3QtTGFrYXkwQUt1bW8tb09yRzRLdnFNWEFxZ18zNGVud3ZRdE4?oc=5"
     },
     {
-     "title": "[N2 포커스] 겨울 은행권 명예퇴직 '칼바람' 부나…NH농협금융, 명예퇴직 실시",
-     "source": "뉴스투데이",
-     "date": "11.20 17:00",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FeFJnVDIyeE1LSFpzUWEyeGR1MkI4b3FLMURoWG9kSV9BN1FpRVFfR2VnQVZ3WnJuUl84cTNEVGtKV1p0cEZJaDhnSXk4U08zMnc2YVFiTndfcTlXdGc?oc=5"
+     "title": "실적 나빠도 좋아도 희망퇴직…구조조정 전략이 변한다",
+     "source": "대한데일리",
+     "date": "11.23 10:58",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtVXJjNV9EVl9hVzBrVjQybHpyMVNyTjVGaUw5V0VqY05mQUxUbE9WX3NpbWR1OUloV2xhRng1WHhGLVJES0dvcEd1bnhXMGE5bkJqNEN0RlBjQ3dTWnJ5RGZLZ0Jxa19sb0JZ?oc=5"
     }
    ]
   }
  ],
- "retire_updated": "2026-11-23 14:06",
- "news_updated": "2026-11-23 14:06",
+ "retire_updated": "2026-11-24 08:46",
+ "news_updated": "2026-11-24 08:46",
  "bids_updated": "샘플",
- "updated": "2026-11-23 14:06"
+ "updated": "2026-11-24 08:46"
 }
