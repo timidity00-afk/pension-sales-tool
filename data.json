@@ -348,13 +348,14 @@
   }
  ],
  "notes": [
+  "기사 갱신에 실패해 이전 내용을 보여줍니다.",
   "공고 갱신에 실패해 이전 내용을 보여줍니다."
  ],
  "sample": false,
  "retire": [
   {
    "company": "NH농협은행",
-   "count": 7,
+   "count": 6,
    "people": "",
    "latest": {
     "title": "농협은행, 명예퇴직 돌입…인력 재편 본격화",
@@ -364,10 +365,10 @@
    },
    "articles": [
     {
-     "title": "은행권 연말 칼바람 시작되나...농협은행, 10년 근속·40세 이상 직원 대상 명예퇴직 신청",
-     "source": "생생비즈플러스",
-     "date": "11.24 14:01",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52ZURxZUdWOHE4SENZWm54bmlkMzJCeUhDa1pkb0FtdzlSNGE2Z215RjRJQW5hdUV4NDlsUXhDYXhQaFo1UUg1QVp2OXo0LVBLN3h6ZmRXd1ZHQk5yOUk2RzFuMS05WmE5c3Jtdw?oc=5"
+     "title": "NH농협은행, 희망퇴직 받는다…만 48~53세에 월평균임금 40개월분 지급",
+     "source": "The PR 더피알",
+     "date": "11.24 13:56",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TTDZCWExTYWJnSVhiSFZ6TzltZ01GMGl1bERBTmNqX3ktYXBjYlhEOE5kQ25vMzN3THNIcjdrMHRzSmVhdDBrSVlvZVZfR0hRemdJejhVNmVYRmdSM0x5MkdYcjRDYmRzY0HSAW5BVV95cUxNR04wVHBmMXdRMjlpaXNfVzVLQjh3S1kzZEh6ajE5d0tnUVVjOU50X0hnWmdBMG94UUFCc3FCelBiZlp0TVd5SUNDbkFMb3hKS2hPNnRfY0JIT08tMTAtOW5GTXV6Qm5ENXlwa2J0QQ?oc=5"
     },
     {
      "title": "NH농협은행, 40세 이상 명예퇴직 접수⋯최대 40개월치 지급",
@@ -376,28 +377,28 @@
      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPSFJLamw1N2hNTHR5Mmc4a0M5bHVrcXZjbWk1MkE3QUx6a0wwalR2dWQ0czYyLTNUdWJNRDVsaEtJbFJEMGYxS2dNck1MTmhyUUZtVA?oc=5"
     },
     {
-     "title": "NH농협은행, 26일까지 명예퇴직 신청받는다 : 금융",
-     "source": "재경일보",
-     "date": "11.24 13:50",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NaEZZSUY0RDlCR2M1VVlkX2dzelFkTHBfZkd4bXl0QlNwNXBLVnpXb0dFbC1lSmVaVDd3V0dhQnVSTDFGRi1QcUh5dw?oc=5"
+     "title": "농협은행, 40세 이상 명예퇴직 받는다…최대 40개월치 임금",
+     "source": "연합뉴스 한민족센터",
+     "date": "11.24 13:29",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IXy1HMW5RaktuYXhpOGtockN3QnBGVmVadi10dlZFeUMyZllTeDdHSmwtQXQ0bDIzZ3NPem50U1d3TlRwV19CN2FYWUJTVEdkOEQ5SXlqWlFCbWlfMVpJMnBuanhmZUpJOEV5Y2wwRUIzdnJX?oc=5"
     },
     {
-     "title": "농협은행, 40세 이상 희망퇴직 실시…최대 40개월치 임금",
-     "source": "데일리안",
-     "date": "11.24 13:38",
-     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPT2ZtU2N2d0pQdUw1WG5wLTd5aWduX2V3X1JPMERNdk9Tek1WNUhpTTlINnFvNnJtVHFEY1p1VmZaemV6NEhhVzY5TkdZck5lY3I0ZG1iUFQ3RkZCTXVxZEZST0tTYzlEcmdndkRWeURVdzVyZ3V1YmN1QnAwd3I2RlRGVnJaMHNOc3RTU1Z6UUpMSHN6QmtiTTl1MnMxTUtJd0tab24zN0VRNmh0WXZXamtaQnRkZ3BfOEhSdTZqVmF6OXE5RkltMXowSjR5RHl4cDJxMzBPaGFhUlNOS0VweEMzOTZzQ29rSk1XVW9VZGU3Qk5DcnRCNjB5SVR2RmQxRlU1UUc0ZkhIaHE3OXc?oc=5"
+     "title": "NH농협은행, 만 40세부터 희망퇴직 실시…최대 40개월치 임금 지급",
+     "source": "뉴시스",
+     "date": "11.24 13:15",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BNnF5OFRDOWMyQzRBR3E3bUJQR2g5Nk9nRjhkem4yb0RmOWtwT0h3R1BGOTRFeGZQV0JOREg2bVVseWdta2NYY1RZSzZBMExDSUg1S1dxUk42d2ZwbVp6cdIBeEFVX3lxTE9ZbmRtSVFaSWs5WldMOVE1OGdhYURmbGxyM2plRXFLeVczUG0xZ01oS2NGZDdnbjI2SnBUbWJUWHVFb29ITHRpRW1aWE1fY2xSejVXUFJqREJBQzhSM1J2LWo0Nm1Rc2FYNjEwaHYzS1RiU2QtQmVlOA?oc=5"
     },
     {
-     "title": "NH농협은행, 40대부터 명예퇴직 신청 받는다…최대 40개월치 특별퇴직금 지급",
-     "source": "코리아데일리",
-     "date": "11.24 12:47",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sd3F5cmQySlZYMFlHNlZjZXM0bTFwczdZcGsxU09WcjZCWk1Na3FUS0pGeEVMWUdHaldzVnlncWNoNTVtdG9BcDBjVzFhQzdEX2VYb3g2d0lwNzktY3BJOF96X1g4QUI4X3ItZFI2SkE?oc=5"
+     "title": "“최대 40개월치 임금 준다”…농협은행, 40세부터 희망퇴직",
+     "source": "디지털데일리",
+     "date": "11.20 12:13",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8za3hiVVNQWG9fS3p2YmJmN1NDQTVzcnZnTzB5R2VXYTlNWGxkNjBiejJ2VW1nUjlkeFJIdFFacDFXaTlwZl9fR3ZsSlMzcmZ5eDUtUV9MWmRCbkhWdk5TYWRHUnY?oc=5"
     }
    ]
   },
   {
    "company": "롯데",
-   "count": 1,
+   "count": 2,
    "people": "",
    "latest": {
     "title": "하이트진로·롯데칠성 연말 희망퇴직, 인건비 덜어도 '공장 고정비'는 그대로",
@@ -405,11 +406,18 @@
     "date": "11.23 18:03",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kYWpnNGdSVlMwRy1RZk9pYVpTNFhLeVRrb2RMTTFoRS1UaXBJUmNtU2s0a2hwTjdBeUpibU93elRIOXlDMm5nUVZvSFJwblBpZ3ZLWG52T2VHQXlSYjctYzNCUlNNMzhpSF9neFNn?oc=5"
    },
-   "articles": []
+   "articles": [
+    {
+     "title": "SK·롯데·LG·한국GM까지…대기업 희망퇴직 확산, 최대 40개월치 급여 제시",
+     "source": "핀포인트뉴스",
+     "date": "11.11 17:00",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vb3dXaG10REVYV0ZEaW5SM1RiYXpxVDd4eklXRmg5eTV0NDZrMDhYZlR5REk4ZVozaWRqOVR1eTJHR0Y0c2l0SGQtaTBJSVMwRF9rXzZndVZLbW0tbGlfaTZtYXdaRlgtTnlNTlZXUHZjLXPSAXdBVV95cUxPSVRBRy1UVC14VG0wNFh1VEttX1UzMGpxU3FoVTdCem15SmNHUFdMQ1EyRW5rNk90bjNxdExoRTRZd0Zlb1UxV1pxMXpZNDQwVWgyR3VaSE1WcFNLT2lDd0lVZW1GeTBuM1RCaGVYSllab0tob256bw?oc=5"
+    }
+   ]
   },
   {
    "company": "기타 기업",
-   "count": 48,
+   "count": 65,
    "people": "",
    "latest": {
     "title": "[종합] 은행권 연말 '희망퇴직 시즌'…농협 명퇴금 2배",
@@ -419,16 +427,16 @@
    },
    "articles": [
     {
-     "title": "SKT, 50대 이상 희망퇴직···\"지원 조건 개별 안내\"",
-     "source": "뉴스웨이",
-     "date": "11.24 13:59",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rR3RVdjBtX1h0cGV3NWVFVC02dk1hSVpaRm1PNXFZcmc0aGN1dFRNdUx3WnlRYmF6YUJmN3lXUUcxaHNGaUFPSm9sSUJSckh3REdWMTMwbGlnMEh0M0V0amtpd3Z4aHJZZlE?oc=5"
-    },
-    {
      "title": "NH농협금융, 만 40세 이상 명예퇴직…최대 40개월치 임금 지급",
      "source": "뉴스1",
      "date": "11.24 13:58",
      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NQ0JPR1FXclZRWEV6aXFacElOZ3UzajhDaDk5bkU1WmFlZGNyWGhVTEJwclVwSWpQMkNtZVZsLTROV21Ka1ppUXdOYmY5c2ZLZjFR?oc=5"
+    },
+    {
+     "title": "＂40세부터 명예퇴직 신청＂…은행권 연말 ＇칼바람＇",
+     "source": "한국경제TV",
+     "date": "11.24 13:49",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByUW91aTJSTllSbXB1d1BOcVNDdkdESWs4aTJtbVpiZDd5WE54VVFIWFpfV1lHUlJkT2tFVDdOYlpxR2I4djViQmdlMXJQVV8zWEI0eV9hYzJPeVphUkFXOTNjYWdqVzB1anUxdXNCc3UwQzIyZUsw?oc=5"
     },
     {
      "title": "[이슈&논란] 분기 5500억 벌어도 “3억 줄테니 짐 싸세요”…우량기업 SKT 희망퇴직의 속사정",
@@ -443,16 +451,16 @@
      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAta01rcHpJX0NEV0tHSFFla2piRFVCVk1IQmprMTRmUnFIRDBoYkUxT2NnTlE3Vk9XRkxnYUVwR0Z5aGd6Z0JWTGVUZw?oc=5"
     },
     {
-     "title": "연말 특별퇴직 나선 농협·교보⋯ 보험사별 온도차",
-     "source": "이투데이",
-     "date": "11.24 10:49",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yek1ZTVdLekU5UmFTX2FkeW4zYzEzZ2IwVEFhU0U5UkNqaGdvRGpQb01hMFYxUDZ2UTQwYzVzQm9yMUxBRDM3anVzT012a1JDaGtJdA?oc=5"
+     "title": "SKT, 50대 이상 직원 대상 희망퇴직",
+     "source": "IT조선",
+     "date": "11.23 17:58",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFdzdxb3NQaERfT3ZEZjU1QUlBak9lSnZLTng2SHV5aDhDSjJ2ZzJSSW1QS1VrTEJ1Y0NIV0xZUHhZanhZMmI5bEJIcHZWS3RjcEdtVVBrVEFxMF9INlZRY2ZoZjQyaWhIZGNFZ29CUlTSAXRBVV95cUxNQ3RXdlg0QVFDWHVOMldNVnh0ZzY3S2dsV0lYNHBEWUNHNHBQSXo4NGctZ2hBR1kyVFAzdGppVThGeEJRUjlUalpDV01SRVh5aFRYdldPejVsd0xTTDdZdGc5ZTVDQUEwdnFVbWRrY1pNNzZGdw?oc=5"
     }
    ]
   }
  ],
- "retire_updated": "2026-11-24 14:51",
+ "retire_updated": "2026-11-24 15:01",
  "news_updated": "2026-11-24 14:51",
  "bids_updated": "샘플",
- "updated": "2026-11-24 14:51"
+ "updated": "2026-11-24 15:01"
 }
