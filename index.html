@@ -11,7 +11,6 @@ header{padding:20px 18px 8px}
 h1{font-size:22px;margin:0}
 .upd{color:var(--ink);font-size:14px;font-weight:600;margin:4px 0 0}
 .count{color:var(--sub);font-size:13px;padding-top:12px}
-#rf{font:inherit;font-size:13px;color:var(--accent);background:none;border:1px solid var(--accent);border-radius:6px;padding:2px 10px;margin-left:6px}
 .banner{background:#fff4e5;color:#7a4a00;padding:8px 18px;font-size:13px;text-align:center}
 nav{display:flex;margin-top:8px;border-bottom:1px solid var(--line)}
 nav button{flex:1;padding:12px 4px;font:inherit;font-size:15px;font-weight:600;background:none;border:0;border-bottom:3px solid transparent;color:var(--sub)}
@@ -30,7 +29,7 @@ details{margin-top:8px;font-size:14px}summary{color:var(--accent);cursor:pointer
 .sub{padding:6px 0 0 4px;font-size:14px}
 .empty,.foot{color:var(--sub);font-size:14px;padding-top:16px}
 </style></head><body>
-<header><h1>퇴직연금 주요 이슈</h1><p class="upd"><span id="upd"></span> <button id="rf" type="button">
+<header><h1>퇴직연금 주요 이슈</h1><p class="upd"><span id="upd"></span></p></header>
 <div class="banner" id="sample" hidden>샘플 데이터입니다. 자동 수집이 한 번 실행되면 실제 데이터로 바뀝니다.</div>
 <nav role="tablist">
 <button role="tab" id="t-news" aria-selected="true">퇴직연금 기사</button>
@@ -81,5 +80,5 @@ function load(){fetch('data.json?t='+Date.now()).then(r=>r.json()).then(d=>{D=d;
   const f=$('#foot');f.replaceChildren();(d.notes||[]).forEach(n=>f.append(el('div',null,n)));
   f.append(link('https://www.alioplus.go.kr','알리오에서 직접 확인하기'));
   render()}).catch(()=>{$('#view').replaceChildren(el('p','empty','데이터를 불러오지 못했습니다. 새로고침해 주세요.'))})}
-$('#rf').onclick=load;load();
+load();
 </script></body></html>
