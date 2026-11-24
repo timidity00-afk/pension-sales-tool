@@ -6,8 +6,12 @@ from email.utils import parsedate_to_datetime
 KST = timezone(timedelta(hours=9))
 NOW = datetime.now(KST)
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data.json")
-# 조달청 나라장터 입찰공고정보서비스(용역, 공고명 검색). 인증키 발급 후 이 주소가 맞는지 먼저 확인할 것
-BID_URL = "https://apis.data.go.kr/1230000/ad/BidPublicInfoService/getBidPblancListInfoServcPPSSrch"
+# 조달청 나라장터 입찰공고정보서비스(용역, 공고명 검색). 2026-11 개편 후 주소는 ...Service02, 기능 이름 끝에도 02
+BID_APIS = [
+    "https://apis.data.go.kr/1230000/ad/BidPublicInfoService02/getBidPblancListInfoServcPPSSrch02",
+    "https://apis.data.go.kr/1230000/ad/BidPublicInfoService/getBidPblancListInfoServcPPSSrch",  # 개편 전(예비)
+]
+BID_WINDOW_DAYS = 7  # 개편 후 한 번에 조회할 수 있는 기간은 양 끝 포함 7일
 
 def get(url):
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
@@ -79,20 +83,47 @@ def retire(days=14):
     out.sort(key=lambda g: (g["company"].startswith("기타"), -g["count"]))
     return out
 
-def bids(key, kw="퇴직연금", days=30):
-    q = {"serviceKey": urllib.parse.unquote(key), "numOfRows": 100, "pageNo": 1, "inqryDiv": 1,
-         "type": "json", "bidNtceNm": kw,
-         "inqryBgnDt": (NOW - timedelta(days=days)).strftime("%Y%m%d0000"),
-         "inqryEndDt": NOW.strftime("%Y%m%d2359")}
-    body = json.loads(get(BID_URL + "?" + urllib.parse.urlencode(q)))["response"]["body"]
-    items = body.get("items") or []
+def bid_call(base, key, kw, bgn, end):
+    q = {"serviceKey": urllib.parse.unquote(key.strip()), "numOfRows": 100, "pageNo": 1, "inqryDiv": 1,
+         "type": "json", "bidNtceNm": kw, "inqryBgnDt": bgn.strftime("%Y%m%d0000"), "inqryEndDt": end.strftime("%Y%m%d2359")}
+    raw = get(base + "?" + urllib.parse.urlencode(q))
+    try:
+        res = json.loads(raw)["response"]
+    except Exception:  # 인증·주소 오류는 JSON이 아닌 XML로 옴
+        raise RuntimeError("JSON 아닌 응답: " + re.sub(r"\s+", " ", raw.decode("utf-8", "ignore"))[:150])
+    code = str(res.get("header", {}).get("resultCode", "00"))
+    if code != "00":
+        raise RuntimeError("API 오류 " + code + ": " + str(res["header"].get("resultMsg", "")))
+    items = res["body"].get("items") or []
     if isinstance(items, dict):
         items = items.get("item", [])
-    if isinstance(items, dict):
-        items = [items]
-    out = [{"title": i.get("bidNtceNm", ""), "org": i.get("ntceInsttNm") or i.get("dminsttNm", ""),
-            "posted": i.get("bidNtceDt", ""), "close": i.get("bidClseDt", ""),
-            "url": i.get("bidNtceDtlUrl", "")} for i in items if kw in i.get("bidNtceNm", "")]
+    return [items] if isinstance(items, dict) else items
+
+def bids(key, kw="퇴직연금", days=30):
+    # 최근 days일을 7일 단위 구간으로 나눠 조회 (구간 하나가 7일을 넘으면 API가 오류를 냄)
+    wins, last = [], NOW.date()
+    for _ in range(-(-days // BID_WINDOW_DAYS)):
+        first = last - timedelta(days=BID_WINDOW_DAYS - 1)
+        wins.append((first, last)); last = first - timedelta(days=1)
+    errors, base, rows = [], None, []
+    for cand in BID_APIS:  # 첫 구간으로 쓸 수 있는 주소를 고른다
+        try:
+            rows += bid_call(cand, key, kw, *wins[0]); base = cand; break
+        except Exception as e:
+            errors.append(cand.split("/")[-2] + ": " + str(e)[:160])
+    if base is None:
+        raise RuntimeError(" | ".join(errors))
+    for w in wins[1:]:
+        rows += bid_call(base, key, kw, *w)
+    seen, out = set(), []
+    for i in rows:
+        t = i.get("bidNtceNm", "")
+        k = (t, i.get("bidNtceDt", ""))
+        if kw not in t or k in seen:
+            continue
+        seen.add(k)
+        out.append({"title": t, "org": i.get("ntceInsttNm") or i.get("dminsttNm", ""),
+                    "posted": i.get("bidNtceDt", ""), "close": i.get("bidClseDt", ""), "url": i.get("bidNtceDtlUrl", "")})
     return sorted(out, key=lambda x: x["posted"], reverse=True)
 
 def main():
@@ -118,7 +149,7 @@ def main():
         try:
             data["bids"] = bids(key); data["bids_updated"] = stamp; data["sample"] = False
         except Exception as e:
-            print("bids 실패:", e, file=sys.stderr); data["notes"].append("공고 갱신에 실패해 이전 내용을 보여줍니다.")
+            print("bids 실패:", e, file=sys.stderr); data["notes"].append("공고 갱신 실패(이전 내용 표시): " + str(e)[:300])
     else:
         data["notes"].append("나라장터 인증키가 설정되지 않아 공고를 불러오지 못했습니다.")
     data["updated"] = stamp
