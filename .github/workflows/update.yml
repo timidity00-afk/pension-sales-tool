@@ -3,8 +3,7 @@ on:
   push:
     branches: [main]   # 파일을 올리는 즉시 1회 수집 (테스트용)
   schedule:
-    - cron: "0 23 * * *"   # 매일 08:00 KST
-    - cron: "0 4 * * *"    # 매일 13:00 KST
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 permissions:
   contents: write
