@@ -1,6 +1,12 @@
 {
  "news": [
   {
+   "title": "신영증권, 기업 오너 연금·세무 상담 'O-클래스' 출시",
+   "source": "비즈월드",
+   "date": "11.26 01:29",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yWHNnVHpDdk9FRUpwSHB4alA1dlJQcGJWek5ucTFxVllsUV9ya19lRWJOdndpWm9SWHlxY3dNUGJfemZCME5kbjJEU0ItRXprSDYwOUVsUHAxMmpldnFKNExnNmpFdmpDTkE?oc=5"
+  },
+  {
    "title": "“시장 변동성 커질수록, 패닉 셀 아닌 주기적 리밸런싱해야”",
    "source": "동아일보",
    "date": "11.26 00:30",
@@ -379,12 +385,6 @@
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB4d0dxTXh0V3hFaG9hbG9YdkVPVTFFWEJrUHJkaFQ5ZlBSNWdHa25ndFhBMWw3X0JNYTh4RFFwR2MyMTJwS0ZmaEx3Yk9hQQ?oc=5"
   },
   {
-   "title": "\"퇴직연금, 모르면 '원리금보장'에 주차…대면교육 필수\"[장기투자 콘퍼런스]",
-   "source": "이데일리",
-   "date": "11.25 11:14",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSHBxamJZdTBHQ3d0U3RiMGd2bjhsSVo3dHlEUVc3SjYzTUphTEREY01HU1YyWVp1MG41Zi1GazdkWVYwSERlLXppWFRhaXdENk45QzhuV3lqal9yZnBNdnowRG9RXzVKd1NhX1JBdWhrVUVXdUtCMGtfZFAtTW1wTA?oc=5"
-  },
-  {
    "title": "“트럼프, 퇴직연금까지 反ESG” 퇴직연금 투자 규정서 ESG 삭제 추진, 장기 투자금 필요한 친환경 사업 ‘먹구름’",
    "source": "The Economy Korea",
    "date": "11.25 11:13",
@@ -646,15 +646,21 @@
  "retire": [
   {
    "company": "NH농협은행",
-   "count": 16,
+   "count": 14,
    "people": "",
    "latest": {
-    "title": "NH농협은행, 40세 이상 명예퇴직 접수…48~55세 퇴직금 확대",
-    "source": "뉴스저널리즘",
-    "date": "11.24 18:46",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5USXZlS0Q4Z1pwdURDZ2FBVlFWcmFLUzFKOWZZNm9PQ2lsQUQ2NU1KUWFjLTJwRGZoZTRGQjU5X1R5SUNwMWprR2otVldzakNFdWxuVnRPZ2wxVE95MDdZSTlWdy1NcmFHVHRJ?oc=5"
+    "title": "NH농협은행, 만 40세 이상 명예퇴직 실시…최대 40개월치 임금 지급",
+    "source": "민주신문",
+    "date": "11.24 20:25",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNWDN5anB0dGFFSlhpM0VOY1NabFRzS3BrUG5PNkRKWDVidjR4LW9pUjY0cGlMS1VBVDZROU5pcmF5aGFfdFJpV2xLR3p0UTNORzI4bGltdmNub0FPRlZ4enY5UGc4VjlDWk130gFrQVVfeXFMUE1YM3lqcHR0YUVKWGkzRU5jU1psVHNLcGtQbk82REpYNWJ2NHgtb2lSNjRwaUxLVUFUNlE5TmlyYXloYV90UmlXbEtHenRRM05HMjhsaW12Y25vQU9GVnh6djlQZzhWOUNaTXc?oc=5"
    },
    "articles": [
+    {
+     "title": "NH농협은행, 40세 이상 명예퇴직 접수…48~55세 퇴직금 확대",
+     "source": "뉴스저널리즘",
+     "date": "11.24 18:46",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5USXZlS0Q4Z1pwdURDZ2FBVlFWcmFLUzFKOWZZNm9PQ2lsQUQ2NU1KUWFjLTJwRGZoZTRGQjU5X1R5SUNwMWprR2otVldzakNFdWxuVnRPZ2wxVE95MDdZSTlWdy1NcmFHVHRJ?oc=5"
+    },
     {
      "title": "농협은행, 2026년 명예퇴직 실시… 40세 이상 최대 40개월치 임금",
      "source": "세계일보",
@@ -668,46 +674,28 @@
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaW9XYzUyeUltMklUdEVZb01HMlJjRVkteXBqN3FGaWl6cFNuUDZla2tsM1kzWlk3T0loY1VwaEhqMlFzR0dlM3lqRHkxUkJZcGpLcVc5dnQtMEFPNzBsaTNYNmZkaFQ3RWI2Q3JvdGQzZFNma2E2dDJhY0lzVV9JXw?oc=5"
     },
     {
-     "title": "NH농협은행, 명예퇴직 실시…최대 40개월치 임금 지급",
-     "source": "뉴시안",
-     "date": "11.24 17:02",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fSGc4eTU4M3FfUGNNRlZuUWlMMy0ySjhvOGV5ZkYyUU9JajJ4RkRoMDdXa0ZiUlVRbVhFTU04aHAtbmdqRXlneHNWYjJPcy1tbjNwdUFHQm5pWE9RRE1RS2gzcGNkX1VUR1pfMA?oc=5"
+     "title": "농협은행, 40세 이상 명예퇴직 받는다",
+     "source": "TradingView",
+     "date": "11.24 17:18",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rSEZyU2YtTkNkbkNVeXJ6QmRHMkpFOXo3YTZQYlNzNGRGeHBKNUU0eXczLVJVRGdVQm1FQVlqLUl5ZERQVDZ4eUZrZWQ2VUhxZ2t4c0U3RWdyRXFqLWVaTWJiV1JaU0pOZWc?oc=5"
     },
     {
      "title": "NH농협은행 만40세 이상부터 명예퇴직 신청 접수, 특별퇴직금 최대 40개월분",
      "source": "비즈니스포스트",
      "date": "11.24 16:36",
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XeFRvOW9ZemJzNzBEbXVNdUxYbHVsbktRZEFuTDBFRXdxSV8zaWMwSEw4TkUwQWNCbjloWk1WT3F0RzVmSFltUDF5VHFDYmxjNVdvSGFaamFrOE02aXBmX2R1am5WbmxqejJvOXE2YmNmYmc?oc=5"
-    },
-    {
-     "title": "NH농협은행, 40대부터 명예퇴직 접수…‘효율적 인원 배분 목적’",
-     "source": "내외경제TV",
-     "date": "11.24 16:02",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ETGl2OWhzV1NLcUw3Vm1vSGtlZEtuOS1EeGFBT2U0bFlGNXJ4dUczQzFzcnRKS2JpNlZIWkoyay1lUE9lN0pFcmo0RXFJbzg0dUVkQ2VLdnRER2xDY0ZFZ3k5VVlZeU14bUw4?oc=5"
     }
    ]
   },
   {
-   "company": "롯데",
-   "count": 1,
-   "people": "",
-   "latest": {
-    "title": "하이트진로·롯데칠성 연말 희망퇴직, 인건비 덜어도 '공장 고정비'는 그대로",
-    "source": "폴리뉴스 Polinews",
-    "date": "11.23 18:03",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kYWpnNGdSVlMwRy1RZk9pYVpTNFhLeVRrb2RMTTFoRS1UaXBJUmNtU2s0a2hwTjdBeUpibU93elRIOXlDMm5nUVZvSFJwblBpZ3ZLWG52T2VHQXlSYjctYzNCUlNNMzhpSF9neFNn?oc=5"
-   },
-   "articles": []
-  },
-  {
    "company": "기타 기업",
-   "count": 49,
+   "count": 55,
    "people": "",
    "latest": {
     "title": "9급 공무원 비하 발언 논란 정영란 부산시 인재개발원장, 명예퇴직 신청",
     "source": "에너지경제신문",
     "date": "11.25 18:25",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tMkktVlJIaFdHbkFzeWdnSnBJY2V2ZDVoYlh5c1g3dFNqc1NsRkxMNmptbFhnZDZtYldoZkNWME5mY0hLNmZXOWFHVUQtTFFLQzlnZXljRURrc2M?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xaEVtWGxnbjVKU3BXaVZsZksydy1ldDVINWdxT0h1ZW5RRk9tbFR4WFF0bTZEZmlReXRwUzlVQW5uZ2VIVHBBcDQ0aWt3eXMwTmpaa1p2MUVXWmVnbWJDYldxdw?oc=5"
    },
    "articles": [
     {
@@ -723,16 +711,16 @@
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12VVF6VDFBZGdBV2ZFbEVlTkFqSXJZWVJFcE9Ua3JjcnRpVTBJVkZuZ1Mydmp6Q09LWWZncDdJcnlrQngzM09Iem1mSG5UTlRfdUY1OW9Ed1A?oc=5"
     },
     {
-     "title": "국내 위스키 시장 1위 '골든블루'… 2년 만에 또다시 '희망퇴직'",
-     "source": "아시아경제",
-     "date": "11.25 16:25",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByX3B0aURPZ2ExdjRWNG1HMGxZb2V6ZE5teDNveU9ZcjBNSlNHMkQ4d0xUaWNzYXBKZlhiZlFrc3JMcWZWRWpCVGVUdHRhN2tpdWZJeUFQY1FIRXItRlBxUA?oc=5"
-    },
-    {
      "title": "술 소비 감소에 일자리도 직격탄…주류업계 도미노 희망퇴직",
      "source": "부산일보",
      "date": "11.25 16:21",
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GSllseGtQS0FtZUxPTUE0cklyREFjZWJiTUF3NklsQm55TFJCZW5aQXVUcUpNTnRSaFNuSHcwXzExb1dCNnAwZVZSUjREb2hPLVgxblprLTZCTXE4QzJBS2k1Mm5keHVtM1JCSnZpWFAwenV1?oc=5"
+    },
+    {
+     "title": "40개월~20개월···엇갈리는 유통·식품·주류 희망퇴직 위로금",
+     "source": "그린포스트코리아",
+     "date": "11.25 15:48",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XNWFRU3BUekFrdWZ2NENzbEEwcF96bmdmN243WEFmazhXZTJtWE1SVWtyVGV6WnhtXzBUajVmSk5DbnpZWm9EUkNpYWtrSEhZb3dHMW9mSnRwbDBLYjF1Y2ZVUWtRMVdsclNZeTBCSUktcm9nOXfSAXpBVV95cUxObHMydmg5aDRIRnpYX1U4THZ6R08tZ1FKNGZFYllSTVQtWGplaUdMSnZfV2lGWWZLX25IdDRwaW9rWjdNMHZ6NVk4Tm5mUkl4Y3BMNEkwWUVWZ0VOMklNQzdEQmJacFpPNzNnNEpNYmQyTU9HZnU0emVFZw?oc=5"
     },
     {
      "title": "골든블루도 희망퇴직…주류업계, 인력 줄이고 공장도 통합",
@@ -743,8 +731,8 @@
    ]
   }
  ],
- "retire_updated": "2026-11-26 01:34",
- "news_updated": "2026-11-26 01:34",
- "bids_updated": "2026-11-26 01:34",
- "updated": "2026-11-26 01:34"
+ "retire_updated": "2026-11-26 02:39",
+ "news_updated": "2026-11-26 02:39",
+ "bids_updated": "2026-11-26 02:39",
+ "updated": "2026-11-26 02:39"
 }
