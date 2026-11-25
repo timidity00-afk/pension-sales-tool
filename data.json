@@ -641,12 +641,14 @@
    "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01787683&bidPbancOrd=000"
   }
  ],
- "notes": [],
+ "notes": [
+  "기사 갱신에 실패해 이전 내용을 보여줍니다."
+ ],
  "sample": false,
  "retire": [
   {
    "company": "NH농협은행",
-   "count": 14,
+   "count": 13,
    "people": "",
    "latest": {
     "title": "NH농협은행, 만 40세 이상 명예퇴직 실시…최대 40개월치 임금 지급",
@@ -688,6 +690,18 @@
    ]
   },
   {
+   "company": "롯데",
+   "count": 1,
+   "people": "",
+   "latest": {
+    "title": "하이트진로·롯데칠성 연말 희망퇴직, 인건비 덜어도 '공장 고정비'는 그대로",
+    "source": "폴리뉴스 Polinews",
+    "date": "11.23 18:03",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kYWpnNGdSVlMwRy1RZk9pYVpTNFhLeVRrb2RMTTFoRS1UaXBJUmNtU2s0a2hwTjdBeUpibU93elRIOXlDMm5nUVZvSFJwblBpZ3ZLWG52T2VHQXlSYjctYzNCUlNNMzhpSF9neFNn?oc=5"
+   },
+   "articles": []
+  },
+  {
    "company": "기타 기업",
    "count": 55,
    "people": "",
@@ -699,16 +713,22 @@
    },
    "articles": [
     {
-     "title": "우리투자증권, 출범 후 첫 희망퇴직…5년 이상 정규직 대상 |",
+     "title": "우리투자증권, 출범 후 첫 희망퇴직…5년 이상 정규직 대상",
      "source": "연합인포맥스",
-     "date": "11.25 17:47",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xWU0xRFBxdldadmFOZHFYQU9uZldJRFpiQWRRTnJ6N1VYV29NNEd2ck9XNUhDWUw2b3E0NjNRTHZsYnNKTWFLZ01YdEJxS0FCa0F1Rl9TcGh1aG5nTHdYODFWT0FWbTBvNGQ4RkNHYldqRHIy?oc=5"
+     "date": "11.25 17:43",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzR1pLelotam1OOURkU01kUkZQWkZwM2dobGp0VDRwcXEyalFlT3NOUUx6Y1o5WkNLMkxsYWFXVjFpVlB0ZmNmRlJKNzNXYWNnN0RZZGlQUmRUdkdIZm80S09vOW1XWXZ3R1V1ejZFSDI?oc=5"
     },
     {
      "title": "‘9급 고졸 수준’ 발언 부산 인재개발원장, 명예퇴직 신청",
      "source": "국민일보",
      "date": "11.25 17:20",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12VVF6VDFBZGdBV2ZFbEVlTkFqSXJZWVJFcE9Ua3JjcnRpVTBJVkZuZ1Mydmp6Q09LWWZncDdJcnlrQngzM09Iem1mSG5UTlRfdUY1OW9Ed1A?oc=5"
+    },
+    {
+     "title": "국내 위스키 시장 1위 '골든블루'… 2년 만에 또다시 '희망퇴직'",
+     "source": "아시아경제",
+     "date": "11.25 16:25",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByX3B0aURPZ2ExdjRWNG1HMGxZb2V6ZE5teDNveU9ZcjBNSlNHMkQ4d0xUaWNzYXBKZlhiZlFrc3JMcWZWRWpCVGVUdHRhN2tpdWZJeUFQY1FIRXItRlBxUA?oc=5"
     },
     {
      "title": "술 소비 감소에 일자리도 직격탄…주류업계 도미노 희망퇴직",
@@ -721,18 +741,12 @@
      "source": "그린포스트코리아",
      "date": "11.25 15:48",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XNWFRU3BUekFrdWZ2NENzbEEwcF96bmdmN243WEFmazhXZTJtWE1SVWtyVGV6WnhtXzBUajVmSk5DbnpZWm9EUkNpYWtrSEhZb3dHMW9mSnRwbDBLYjF1Y2ZVUWtRMVdsclNZeTBCSUktcm9nOXfSAXpBVV95cUxObHMydmg5aDRIRnpYX1U4THZ6R08tZ1FKNGZFYllSTVQtWGplaUdMSnZfV2lGWWZLX25IdDRwaW9rWjdNMHZ6NVk4Tm5mUkl4Y3BMNEkwWUVWZ0VOMklNQzdEQmJacFpPNzNnNEpNYmQyTU9HZnU0emVFZw?oc=5"
-    },
-    {
-     "title": "골든블루도 희망퇴직…주류업계, 인력 줄이고 공장도 통합",
-     "source": "아주경제",
-     "date": "11.25 14:20",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3dkZJYXdrZ2twSGlIUTJRS01sLVJpbDRHcy00dWcxR0czcjdCWmRadjJCa1BMWVFBZk13T1VWazZTbzZMMzdldVZrVGYzTTR4ZFZ4MmxTSTdrQdIBWEFVX3lxTE9GRjNKQ1VaQnJGZHNQQXEtV25PcUViQTJIRENIeUJGNE1RMGFTa0RmOUc2MFZKYl93a1hXTHgwd1pkYkRPeWUxR0tqZkNEVWhVbG0zNFZQRWo?oc=5"
     }
    ]
   }
  ],
- "retire_updated": "2026-11-26 02:39",
+ "retire_updated": "2026-11-26 03:36",
  "news_updated": "2026-11-26 02:39",
- "bids_updated": "2026-11-26 02:39",
- "updated": "2026-11-26 02:39"
+ "bids_updated": "2026-11-26 03:36",
+ "updated": "2026-11-26 03:36"
 }
