@@ -1,6 +1,12 @@
 {
  "news": [
   {
+   "title": "\"증시 호황 땐 잘나갔는데\"…증권사 퇴직연금 석달 새 4.8조 증발",
+   "source": "데일리안",
+   "date": "11.26 07:01",
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQNlFYS2VKcUhyRXVTZjBnZ19WOXRfVXZSd0M4bGl1LVBBa1c4Y1d0S0syNzg4U3JZZk1TV3pmSGkwYkl3Zi1CNTFLbkxLWm9BSmhfNEZ3dGtGMnBRRHhwY1g5TklqOUkwZktWUGZHRDRIZ2pHZXV4engxeXoxNkRfdWJhZGYyS25YRDVMbnQyY3A2QWU1ckt2Q1pUZGxyaVMyQU1hVWNNZXpleWUzTmtySmxlTWJ6YVBkTXFHbkpQZC01TjR0T3hZSWhTZV9SQU5ZVWp2MW1rWkV2eDhPMzBjdWFVZ3ZyRVhja3BzemtZcVJod1ItRVBUWVVzN3FnQlYxcHMtRGUtR1pJVWdnRXBjalI0eGRDWWFkRmdFTWhiV1VEWUk?oc=5"
+  },
+  {
    "title": "러시아펀드 묶인 퇴직연금, 1월부터 실물이전 허용",
    "source": "연합뉴스TV",
    "date": "11.26 05:31",
@@ -343,12 +349,6 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BOHdtS2lhVHc0TkJjV0llQkMyUUxUSU9CYWNFVFc5cnNZWEJWTDBHNDI1ekZPTXpvbVVybDVLTXR2M2E1Y05RR1QtUW80QVJnQXladEVDY0FndkFHczJiOVF4VVdKOS1r?oc=5"
   },
   {
-   "title": "환매중단펀드 낀 퇴직연금, 내년부터 갈아타기 가능",
-   "source": "노컷뉴스",
-   "date": "11.25 12:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40SVBwWGF2cFViSEpYb19GWkVPUl8tbF9SWUdCRmdLa1NKbzVyUkVtdFdFckpKNjFIanNfTGpHOUlPNnVpMDFLaXRPb1duUEFUOXc?oc=5"
-  },
-  {
    "title": "HK이노엔, 키움증권과 컨디션·퇴직연금 팝업 선봬",
    "source": "의학신문",
    "date": "11.25 11:56",
@@ -391,12 +391,6 @@
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb0NSSUdBeWV3RG5TU05xRXViZFNHT2Z6ZC11T2tRUHh5dEp5TnhRSWhIYS1ORVdQSmU1a3ZYbjd1eHItR0VfUWVnNmFUV0JNcDZMVDdLclBnWkVBOTBuMkx2cGxsa2lzTzFFRmlUT0Y0U2VxcEtrTTJYeENzRHIzaw?oc=5"
   },
   {
-   "title": "KB자산운용, 'RISE TDF2050액티브' 순자산 4배 증가…3235억원 기록",
-   "source": "매일일보",
-   "date": "11.25 10:10",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9laGFmUGhUVFQ3M1Z5Zk9nakhtX3dRVmUtSnFCLU1ZcHpOMGRBUlZwS2tfQkNaZlFWdXhURDRvWlBGTlA2UXY1bUlxbmRPMTFTekZNaXJRNWhkS0hVMldSRURsZl8?oc=5"
-  },
-  {
    "title": "“노후자금으로 환경운동 마라”…퇴직연금서 ESG펀드 빼라는 트럼프",
    "source": "매일경제",
    "date": "11.25 06:31",
@@ -407,6 +401,12 @@
    "source": "공정뉴스",
    "date": "11.25 02:57",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmb2djdXFIVGNneHZWOXhyWUkxcllMakRZRTh3bjU3TWM1WTRMMVhQSTRxMXk4VVUtcjhtNkltUWh3UUpLNzY1MUlkd1VCWGxneXlod0dYTkJ1SHBIYVdrZmdQMWVEd011?oc=5"
+  },
+  {
+   "title": "케이뱅크, 연 최고 3.89% 정기예금으로 퇴직연금 시장 진출",
+   "source": "www.ebn.co.kr",
+   "date": "11.24 16:57",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxdXdFTnRoMmZKMnFwblF3OEFuLWprMHo2V0pISjM5aW9CNkd1Z1VTWkRDakNyVXk5eUxhSkxxNTQ0MFFMd1R1UGQ4cjFwdzhvT0wxQnJxNnRlRUJJMndVMFFka2tKYWJS?oc=5"
   },
   {
    "title": "KB국민은행 기업형 퇴직연금 수수료 인하, \"근로자 안정적 노후생활 지원\"",
@@ -617,15 +617,21 @@
  "retire": [
   {
    "company": "NH농협은행",
-   "count": 16,
+   "count": 13,
    "people": "",
    "latest": {
-    "title": "NH농협은행, 40세 이상 명예퇴직 접수…48~55세 퇴직금 확대",
-    "source": "뉴스저널리즘",
-    "date": "11.24 18:46",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5USXZlS0Q4Z1pwdURDZ2FBVlFWcmFLUzFKOWZZNm9PQ2lsQUQ2NU1KUWFjLTJwRGZoZTRGQjU5X1R5SUNwMWprR2otVldzakNFdWxuVnRPZ2wxVE95MDdZSTlWdy1NcmFHVHRJ?oc=5"
+    "title": "NH농협은행, 만 40세 이상 명예퇴직 실시…최대 40개월치 임금 지급",
+    "source": "민주신문",
+    "date": "11.24 20:25",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNWDN5anB0dGFFSlhpM0VOY1NabFRzS3BrUG5PNkRKWDVidjR4LW9pUjY0cGlMS1VBVDZROU5pcmF5aGFfdFJpV2xLR3p0UTNORzI4bGltdmNub0FPRlZ4enY5UGc4VjlDWk130gFrQVVfeXFMUE1YM3lqcHR0YUVKWGkzRU5jU1psVHNLcGtQbk82REpYNWJ2NHgtb2lSNjRwaUxLVUFUNlE5TmlyYXloYV90UmlXbEtHenRRM05HMjhsaW12Y25vQU9GVnh6djlQZzhWOUNaTXc?oc=5"
    },
    "articles": [
+    {
+     "title": "NH농협은행, 40세 이상 명예퇴직 접수…48~55세 퇴직금 확대",
+     "source": "뉴스저널리즘",
+     "date": "11.24 18:46",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5USXZlS0Q4Z1pwdURDZ2FBVlFWcmFLUzFKOWZZNm9PQ2lsQUQ2NU1KUWFjLTJwRGZoZTRGQjU5X1R5SUNwMWprR2otVldzakNFdWxuVnRPZ2wxVE95MDdZSTlWdy1NcmFHVHRJ?oc=5"
+    },
     {
      "title": "농협은행, 2026년 명예퇴직 실시… 40세 이상 최대 40개월치 임금",
      "source": "세계일보",
@@ -639,40 +645,22 @@
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaW9XYzUyeUltMklUdEVZb01HMlJjRVkteXBqN3FGaWl6cFNuUDZla2tsM1kzWlk3T0loY1VwaEhqMlFzR0dlM3lqRHkxUkJZcGpLcVc5dnQtMEFPNzBsaTNYNmZkaFQ3RWI2Q3JvdGQzZFNma2E2dDJhY0lzVV9JXw?oc=5"
     },
     {
-     "title": "NH농협은행, 명예퇴직 실시…최대 40개월치 임금 지급",
-     "source": "뉴시안",
-     "date": "11.24 17:02",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fSGc4eTU4M3FfUGNNRlZuUWlMMy0ySjhvOGV5ZkYyUU9JajJ4RkRoMDdXa0ZiUlVRbVhFTU04aHAtbmdqRXlneHNWYjJPcy1tbjNwdUFHQm5pWE9RRE1RS2gzcGNkX1VUR1pfMA?oc=5"
+     "title": "농협은행, 40세 이상 명예퇴직 받는다",
+     "source": "TradingView",
+     "date": "11.24 17:18",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rSEZyU2YtTkNkbkNVeXJ6QmRHMkpFOXo3YTZQYlNzNGRGeHBKNUU0eXczLVJVRGdVQm1FQVlqLUl5ZERQVDZ4eUZrZWQ2VUhxZ2t4c0U3RWdyRXFqLWVaTWJiV1JaU0pOZWc?oc=5"
     },
     {
      "title": "NH농협은행 만40세 이상부터 명예퇴직 신청 접수, 특별퇴직금 최대 40개월분",
      "source": "비즈니스포스트",
      "date": "11.24 16:36",
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XeFRvOW9ZemJzNzBEbXVNdUxYbHVsbktRZEFuTDBFRXdxSV8zaWMwSEw4TkUwQWNCbjloWk1WT3F0RzVmSFltUDF5VHFDYmxjNVdvSGFaamFrOE02aXBmX2R1am5WbmxqejJvOXE2YmNmYmc?oc=5"
-    },
-    {
-     "title": "NH농협은행, 40대부터 명예퇴직 접수…‘효율적 인원 배분 목적’",
-     "source": "내외경제TV",
-     "date": "11.24 16:02",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ETGl2OWhzV1NLcUw3Vm1vSGtlZEtuOS1EeGFBT2U0bFlGNXJ4dUczQzFzcnRKS2JpNlZIWkoyay1lUE9lN0pFcmo0RXFJbzg0dUVkQ2VLdnRER2xDY0ZFZ3k5VVlZeU14bUw4?oc=5"
     }
    ]
   },
   {
-   "company": "롯데",
-   "count": 1,
-   "people": "",
-   "latest": {
-    "title": "하이트진로·롯데칠성 연말 희망퇴직, 인건비 덜어도 '공장 고정비'는 그대로",
-    "source": "폴리뉴스 Polinews",
-    "date": "11.23 18:03",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kYWpnNGdSVlMwRy1RZk9pYVpTNFhLeVRrb2RMTTFoRS1UaXBJUmNtU2s0a2hwTjdBeUpibU93elRIOXlDMm5nUVZvSFJwblBpZ3ZLWG52T2VHQXlSYjctYzNCUlNNMzhpSF9neFNn?oc=5"
-   },
-   "articles": []
-  },
-  {
    "company": "기타 기업",
-   "count": 50,
+   "count": 55,
    "people": "",
    "latest": {
     "title": "[단독]AI 일자리 쇼크, 고연봉-고복지 은행권도 덮쳐… 희망퇴직 20% 늘듯",
@@ -685,7 +673,7 @@
      "title": "9급 공무원 비하 발언 논란 정영란 부산시 인재개발원장, 명예퇴직 신청",
      "source": "에너지경제신문",
      "date": "11.25 18:25",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tMkktVlJIaFdHbkFzeWdnSnBJY2V2ZDVoYlh5c1g3dFNqc1NsRkxMNmptbFhnZDZtYldoZkNWME5mY0hLNmZXOWFHVUQtTFFLQzlnZXljRURrc2M?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xaEVtWGxnbjVKU3BXaVZsZksydy1ldDVINWdxT0h1ZW5RRk9tbFR4WFF0bTZEZmlReXRwUzlVQW5uZ2VIVHBBcDQ0aWt3eXMwTmpaa1p2MUVXWmVnbWJDYldxdw?oc=5"
     },
     {
      "title": "우리투자증권, 출범 후 첫 희망퇴직…5년 이상 정규직 대상 |",
@@ -700,22 +688,22 @@
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12VVF6VDFBZGdBV2ZFbEVlTkFqSXJZWVJFcE9Ua3JjcnRpVTBJVkZuZ1Mydmp6Q09LWWZncDdJcnlrQngzM09Iem1mSG5UTlRfdUY1OW9Ed1A?oc=5"
     },
     {
-     "title": "국내 위스키 시장 1위 '골든블루'… 2년 만에 또다시 '희망퇴직'",
-     "source": "아시아경제",
-     "date": "11.25 16:25",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByX3B0aURPZ2ExdjRWNG1HMGxZb2V6ZE5teDNveU9ZcjBNSlNHMkQ4d0xUaWNzYXBKZlhiZlFrc3JMcWZWRWpCVGVUdHRhN2tpdWZJeUFQY1FIRXItRlBxUA?oc=5"
-    },
-    {
      "title": "술 소비 감소에 일자리도 직격탄…주류업계 도미노 희망퇴직",
      "source": "부산일보",
      "date": "11.25 16:21",
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GSllseGtQS0FtZUxPTUE0cklyREFjZWJiTUF3NklsQm55TFJCZW5aQXVUcUpNTnRSaFNuSHcwXzExb1dCNnAwZVZSUjREb2hPLVgxblprLTZCTXE4QzJBS2k1Mm5keHVtM1JCSnZpWFAwenV1?oc=5"
+    },
+    {
+     "title": "40개월~20개월···엇갈리는 유통·식품·주류 희망퇴직 위로금",
+     "source": "그린포스트코리아",
+     "date": "11.25 15:48",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XNWFRU3BUekFrdWZ2NENzbEEwcF96bmdmN243WEFmazhXZTJtWE1SVWtyVGV6WnhtXzBUajVmSk5DbnpZWm9EUkNpYWtrSEhZb3dHMW9mSnRwbDBLYjF1Y2ZVUWtRMVdsclNZeTBCSUktcm9nOXfSAXpBVV95cUxObHMydmg5aDRIRnpYX1U4THZ6R08tZ1FKNGZFYllSTVQtWGplaUdMSnZfV2lGWWZLX25IdDRwaW9rWjdNMHZ6NVk4Tm5mUkl4Y3BMNEkwWUVWZ0VOMklNQzdEQmJacFpPNzNnNEpNYmQyTU9HZnU0emVFZw?oc=5"
     }
    ]
   }
  ],
- "retire_updated": "2026-11-26 06:44",
- "news_updated": "2026-11-26 06:44",
- "bids_updated": "2026-11-26 06:44",
- "updated": "2026-11-26 06:44"
+ "retire_updated": "2026-11-26 07:42",
+ "news_updated": "2026-11-26 07:42",
+ "bids_updated": "2026-11-26 07:42",
+ "updated": "2026-11-26 07:42"
 }
