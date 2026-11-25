@@ -521,7 +521,9 @@
    "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01787683&bidPbancOrd=000"
   }
  ],
- "notes": [],
+ "notes": [
+  "기사 갱신에 실패해 이전 내용을 보여줍니다."
+ ],
  "sample": false,
  "retire": [
   {
@@ -569,7 +571,7 @@
   },
   {
    "company": "기타 기업",
-   "count": 60,
+   "count": 62,
    "people": "",
    "latest": {
     "title": "'점포 감축'에서 'AI 세대교체'로…은행권 희망퇴직 패러다임 바뀐다",
@@ -597,22 +599,22 @@
      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwc210WDlGNTd3Ti1RVm96a1lzeVllTzRDS3JTQmJseElOa2d6Qjd2WGNlN2ZkS3F5cDJfdVJGbl9udktmbkdUb2w2dlVXWHJwOS1oaGFpVEk1d19s?oc=5"
     },
     {
+     "title": "\"5년차도 내보낸다\"···주류업계, 위로금도 줄인 '희망퇴직' 확대",
+     "source": "뉴스웨이",
+     "date": "11.24 17:19",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBZFJBSllWZFV4STdNSGhpQW5JaGNIdlRvcjg1dEpOQ3pCQ0NsZFVzY0Q4N0FDeTVIdXBpaUN5VUw2T09QazVldEFyYjhfZGtjQ0tfX1NZY0FSdUp4X0l2RjMyVEpLVzZ5S3c?oc=5"
+    },
+    {
      "title": "골든블루, 2년 만에 또 희망퇴직 실시…위스키 시장 침체 여파",
      "source": "뉴스1",
      "date": "11.24 16:35",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzaHBISTdfLUtaMmpwVWw1cmZCMW92dDVwUGU4M0xQVWl0UXZUUy1CSl9oazNiNVVveERMVWh5WFZzb1NiQUxTc2t6VW1HNGhzRnlJMi04VE1VSlo3d1Nr?oc=5"
-    },
-    {
-     "title": "술 소비 줄자…주류업계 덮친 ’희망퇴직 칼바람’ By EBN",
-     "source": "Investing.com 한국어",
-     "date": "11.24 15:58",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CazhUSVVLb2RxbTlSYXlTbzROS1ZrZGFJcjdaNDY4UzFxbXNTQ1VzRHJLOUptY1hiNFVmaUJOU1l6VTRKSlZIYTUtclRybWMzLXhtWkhuTktYQlJ6Q2dHU19DY2xPemxBZ2toaTFjbW8?oc=5"
     }
    ]
   }
  ],
- "retire_updated": "2026-11-25 08:37",
+ "retire_updated": "2026-11-25 09:32",
  "news_updated": "2026-11-25 08:37",
- "bids_updated": "2026-11-25 08:37",
- "updated": "2026-11-25 08:37"
+ "bids_updated": "2026-11-25 09:32",
+ "updated": "2026-11-25 09:32"
 }
