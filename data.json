@@ -1,6 +1,12 @@
 {
  "news": [
   {
+   "title": "공노총, 공무원 정년 65세 연장 촉구…집행부 삭발·위원장 무기한 단식",
+   "source": "월요신문",
+   "date": "11.26 18:03",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tckNZQVlsMUtRa1RmUjJSaG9DbVZZUDIxcVJoX3BuMU1MOGRab1IyeTJBeERmdXhUMFJ1QzUzWUpBMGJGLXV6Mm1ac1B0N2JpYzM0TW1GbnFoQkFVNEJzRGc4d3M1clBNVUE?oc=5"
+  },
+  {
    "title": "삼성증권, 'IRP·연금저축 절세 FESTA' 이벤트 진행",
    "source": "이투데이",
    "date": "11.26 18:01",
@@ -13,16 +19,10 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDUWdCMDZ6QUk3aF9pWGRDLUNpUlJXTnpGY1BZbGhFX3YyN2cwaEs5TmpVV21ucm9rYXd0cGtZdU9saW5uY2VsS3JDRWw0d1luYlBMZG42dzNmZUk?oc=5"
   },
   {
-   "title": "AI 호황에 美 퇴직연금 수익률 ‘껑충’",
-   "source": "포춘코리아",
-   "date": "11.26 14:55",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tdlJsc0JzYXFGMlRoNW9obkNBT3dEOFNzX2VaRjRiVmNxQlVxUGMwaHduRFcxSjh3RXJnQkk0SmZLcXFIdkJzLVBmZnI5aHE1cGNBd3Y3aDQ0dmtzeGJpZ0pqd3Q1UjRoTEluQ0lJRnJaZ9IBdkFVX3lxTE42NE1XNElvdlhFb2pvSmRzb0tHR0gxMVdlbnVXNGhwX18xaVVNVGFveHVxaVYyd1JYZ2Zjel84LXBYZUxZM2x1d21GSkhLTE0yX2Q5MUdUN2xtamFFTGMxczFBM2hta0owQXpudzNhZzhmNnFKekE?oc=5"
-  },
-  {
    "title": "키움증권, 연말정산 시즌 IRP 고객 확보 나서…컨디션과 협업",
    "source": "KPI뉴스",
    "date": "11.26 13:50",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VeDdsT3FnSHZtMXFQejJjUjRVOE55ZjVXMHlkLXFzTGZTYjI4N3FOWjNLQVR3d25Qc0ltRjQ1T2I2SUtxN3ppVENxb1REbV9KZXEw0gFTQVVfeXFMT1V4N2xPcWdIdm0xcVB6MmNSNFU4TnlmNVcweWQtcXNMZlNiMjg3cU5aM0tBVHd3blBzSW1GNDVPYjZJS3E3emlUQ3FvVERtX0plcTA?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XMDV3VDdGOENPZkVqMlJTcVpIRi01MEdHcmhMMFdrODZQU2hyN3ZvS2lDeVJJWEFBVnZrU2VINWc2TVExZmY3cXdfWWtYRUh5X2pXbE13TdIBU0FVX3lxTE9VeDdsT3FnSHZtMXFQejJjUjRVOE55ZjVXMHlkLXFzTGZTYjI4N3FOWjNLQVR3d25Qc0ltRjQ1T2I2SUtxN3ppVENxb1REbV9KZXEw?oc=5"
   },
   {
    "title": "KB국민은행, 수수료 인하로 퇴직연금 1위 탈환 노린다",
@@ -99,20 +99,14 @@
   {
    "title": "“시장 변동성 커질수록, 패닉 셀 아닌 주기적 리밸런싱해야”",
    "source": "동아일보",
-   "date": "11.26 02:50",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pT0F0T3VYdjdqcDQwc2V6eExOUnpWcm52bjlQMGlSSEtYMGVDV2VfZmNLb2t2TG9DeHBXT1A5dmkzVmJ4bU5XYVNoMGp0a3ZjRDNmbngzOWstZ0FCcG1yNkRaaW1LamNfMjd3SEh4SWR3THBZY0HSAWZBVV95cUxNZFd5c0p1WGM0QS0xM05ORU9wVVZIWDhhc0xONkR6RHNDcVJNUFkyaTl6cHYwU1VpY1hZQWNJd011ZFI4ZXhIaFNVUTJYV0F1aXlFZ3hNMmwyN0wxNkxYV05HRGVlalE?oc=5"
+   "date": "11.26 00:30",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qYmxBbVVDNFd5aG12LTRjekhGU3Z3WVdKNXltZnJJbnRDbk51QVI5NWgxamhIY2FmSGRHY2lTM1pvUVFsZE5SYVZlREM2a3U5bWNpOEloaWNtMDdXUjBXTWJ4UlRyYy1xT2p4SlZGeW1ISFF4TVHSAWZBVV95cUxQODZCN2JwdTc1eW4zQ2xMM0xDYmxyamI5b0YtTUN2bW5SUWxKYTN4dkFsaHBIOFk4TGNlcTJCMF9VZ2RTYk5wcVVocHBTQWFJbVdSSzlrdllvLUUwYWlhdlpNWHVhNUE?oc=5"
   },
   {
    "title": "키움증권, HK이노엔과 IRP 팝업…퇴직연금·절세 체험 결합",
    "source": "시사캐스트",
    "date": "11.25 20:39",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yUTdNbXRING41TXFWOHJhVU5yWWpsWGhOTWpBanpLYjRnMUlVV0FIMjlKdHpOY1Vvcjl0OXRaVkZOdHVtT3d4UE9wRWpUUHE5VFd5dUlMRnVPbnBVV3FkZkhpZ2pYcFJY?oc=5"
-  },
-  {
-   "title": "“내 401(k) 퇴직연금 어디에 투자됐지?”…모르면 손해 볼 수도 > 시애틀 뉴스/핫이슈",
-   "source": "SeattleN",
-   "date": "11.25 20:31",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5wY3ZibTgzekxRVDFmaDhPa1NfUnJpSnRXd2lIRVljV0JORjZVSHFZd2JPSWRHbTljSW9vY2duTDVPNGR4NjltWU5B?oc=5"
   },
   {
    "title": "키움증권, HK이노엔 ‘컨디션’과 퇴직연금 팝업스토어 운영",
@@ -157,12 +151,6 @@
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQNTdoTzlDNWJGcG5SMDRrNVQySnlkd3ZFMTZNdzZHMktEcm5sanY5V0xPR3F0X3pIQV9oTUQyRklySzlXdG5QS2xKWnpHYWhPOEFwWWpnNDhLVUNQTzA3WWRHZDZPWkNKMUZ0UnlOcEhpSVEyVmfSAWZBVV95cUxPd0tKRDkxUFFZVzhhTlNGWUFWZWFsRExsS2dRelZCdWhWYm50bmZwOVAwM2N1ekpCWWZadGVXUWFzLU5hNXJUZWE3elEyd2V4bExuYklyVXN5c25ueHl5OUlnMVJJSVE?oc=5"
   },
   {
-   "title": "삼성증권, 연말정산 앞두고 연금계좌 고객 확보 나서",
-   "source": "데이터솜",
-   "date": "11.25 16:04",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zV3pwT052ZjYtcF9hZUxJZnpNTHpTOXNGVzUxQldaRGFyVGRCTFE4WlRLWHhCQVdPTGhNcGNqS3ItbkRBbkcxVXpfYlpoN3dXNHZ3bWlyN2lMaGYyNEE0Qkx3Q0JHRG8yNEg4SVd1aGPSAXBBVV95cUxOc1d6cE9OdmY2LXBfYWVMSWZ6TUx6UzlzRlc1MUJXWkRhclRkQkxROFpUS1h4QkFXT0xoTXBjaktyLW5EQW5HMVV6X2JaaDd3VzR2d21pcjdpTGhmMjRBNEJMd0NCR0RvMjRIOElXdWhj?oc=5"
-  },
-  {
    "title": "내년 1월부터 환매중단펀드 보유 퇴직연금 계좌도 실물이전 허용",
    "source": "뉴데일리 경제",
    "date": "11.25 15:54",
@@ -196,19 +184,13 @@
    "title": "[현장] 숙취해소제와 퇴직연금이 만났다…키움증권의 이색 IRP 전략",
    "source": "팝콘뉴스",
    "date": "11.25 14:42",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1scVMtRjVqLXhkczJjbzV0M3F3RkdKUGFndmRwT2VGdjJZNmY0SmxvYTdINUt2bU41Z2dWVndlSGg5XzdiajFrRjZEODZyRm04SFE0aXAyYURHODhhU0R4RkJzVm9ZRmJod25lVi1B0gFyQVVfeXFMTUVCUmVEVGN2enVud2ZIUnpFUWU4YWV1amxuQmdlVzYyRnJ5eXNkX2N5ampKbWI2b2dXbUxfY1hVMl8tVk9IMC0xMk8zN0NMX0pxM1g3N05vQk02UHctZ3RJM01xVUxZaHR3UGY5ME1oZ2p3?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03ajFGQlR3S2hOZ3NJWUpmMFUycVdxMjVHdkF3UmRGSTQ5NDJDRnFIYkozaml4RDl0bUFNcEgzMmxLdVNlUGdubVhkR2hiNFZlUnk3WTdUT291ZnpwQ0xEd1dSanZoWEdNMXdoXzBwZ9IBckFVX3lxTE1FQlJlRFRjdnp1bndmSFJ6RVFlOGFldWpsbkJnZVc2MkZyeXlzZF9jeWpqSm1iNm9nV21MX2NYVTJfLVZPSDAtMTJPMzdDTF9KcTNYNzdOb0JNNlB3LWd0STNNcVVMWWh0d1BmOTBNaGdqdw?oc=5"
   },
   {
    "title": "“환매중단펀드 때문에 퇴직연금 못 옮겼는데”…내년 1월부터 허용",
    "source": "디지털데일리",
    "date": "11.25 14:41",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fTWhnUTV5SEJjVnhjUkFzX2ZGdXpFUmdwSlYycU5nejRLUW5DNDdkNEpTeEJQalFETUJ5Y2R3dXpheGhJd1Nwa2I1SFNNNjExWkVpVWhTY3hJS20wQlV2T1VHeFA?oc=5"
-  },
-  {
-   "title": "금감원 “퇴직연금 고금리 상품 대기업 쏠림” 지적…만기 재예치 때 금리 비교는",
-   "source": "브릿지경제",
-   "date": "11.25 14:36",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fV2tFS2lONm1oUWpKY2tqNG9jMHFXd1NueWZIcVI5Sk9hVzNjOHRua2Z2a1RiR0VXTEtFbllXcTJmNG9MQzFvX3RQRTQ0TUQ0ck5zQU5DMjJGQQ?oc=5"
   },
   {
    "title": "환매 중단으로 묶인 퇴직연금 실물이전 허용",
@@ -235,12 +217,6 @@
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9naWdhX3ZEZHVVT2Z1LVJQMU9EOG92NU9qekxtbGZyNlQzR04ySzRUb2pqY3ZHM2dCV1FCYVlEQVBIM1JOQ3IySi1penBYQ0ZmLVh4ZXB6aS0xblg2TWdxczEwZ1ljZnJoVHdCbw?oc=5"
   },
   {
-   "title": "환매 중단 '러시아 펀드' 묶인 퇴직연금도 갈아탄다… 당국, 실물이전 확대",
-   "source": "한국일보",
-   "date": "11.25 14:26",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TcWNNLWQyT0J5S2RCUlVIZGUxbTh5SGhmUWstdTU3Y2p6dDlyaWJrZlE3NlZkN0VuNkdQWGhQX1Y1MVN5VzJWVDdMS05xUG82T1dXeWdsVFBsY0FBTm9YelpBbTZXUVRteEg5dFNlc0dwRDg?oc=5"
-  },
-  {
    "title": "키움증권, 퇴직연금 1호 법인 고객 HK이노엔과 '크크펜션' 오픈",
    "source": "데이터뉴스",
    "date": "11.25 14:21",
@@ -257,12 +233,6 @@
    "source": "조선일보",
    "date": "11.25 13:39",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX1BkbjhRZnV5cFV0N2ZkT1B3NWJXZTdUMHg3WnE0SzBuUnZLUzNGREV5bkFaaXlLOEtLZ3M5aTZuRXZTSi1VQUY2SWVIeWJTZGtuOHJPbkJ5emotZDJLcjk3ejJSWjFCTWh1YkxYTHhJNzQ2X3E3UEhDbG1HMTFVc2VpQ1BFcU5TVXFxS0hB?oc=5"
-  },
-  {
-   "title": "러시아 펀드 128억원에 갇힌 퇴직연금 7835억원…내년부터 이전 허용",
-   "source": "조세금융신문",
-   "date": "11.25 13:24",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtWm1naFJtbVM5V0RGaHZsMjFlZXBVSFRUU29SV2RhSG5VWVUwc0pvVkd4MlA5SzlCRnNVbnY2S3I3c3JEWmFxZmhnWGFHOXRZc3pCN005S0otdUVxazJrQw?oc=5"
   },
   {
    "title": "\"1000개가 넘는 ETF…KG제로인이 옥석 가릴 것\"",
@@ -304,7 +274,7 @@
    "title": "펀드 128억 때문에 7835억 이전 막혀…퇴직연금 실물이전 개선",
    "source": "조세일보",
    "date": "11.25 12:00",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBabU1EcG1NRnNBbUNVOEZESU13cUhkTi1IcFlHaWI4UzY4X1c0YzgzLW9fTndfZF9Bd2QtR1hEOHRiejlMY2t4ZVpNOXpnNy1RWDN2cFktWTVibUwzaWlhVmJhRGt0YVd1blE?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZYTkwQ3lBbjJjYkxBaUlWUHhLU3lPalBCVzVCamN3akpHUHFUOUU0UVpfX0FLNjc2TC1nZ2g5alJJU1FoTHVNY2VKN1RaX3h1U0VBRjBEdEFRWS1QYzFZNWVZLU1QWVdoMUhNbkJuNA?oc=5"
   },
   {
    "title": "러시아펀드 묶인 퇴직연금, 내년 1월부터 실물이전 된다 - 머니투데이",
@@ -343,16 +313,16 @@
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tR1ZMVTJLVVRFczRKNFRxSE1CMW0ySFVLOVlzNWNWd3VuYTBUdUc5LTc0Z3ZWZHVMRVRLVTFDSlgyRVJEazl0bUp5S3B5VGNKdXlWQ3U3OE92RUJHU2RN?oc=5"
   },
   {
+   "title": "퇴직연금 '머니무브' 빨라지나…환매중단펀드 이전 길 열린다",
+   "source": "www.ebn.co.kr",
+   "date": "11.25 12:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BOHdtS2lhVHc0TkJjV0llQkMyUUxUSU9CYWNFVFc5cnNZWEJWTDBHNDI1ekZPTXpvbVVybDVLTXR2M2E1Y05RR1QtUW80QVJnQXladEVDY0FndkFHczJiOVF4VVdKOS1r?oc=5"
+  },
+  {
    "title": "‘여보, 지금은 안전한 게 최고래’…퇴직연금·저축성보험으로 쏠림 현상",
    "source": "문화일보",
    "date": "11.25 11:43",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96ckhxVTJiRDUtV0JmLWs1NWhfZFhwNFRlX0gzMXRNbnFLYXpQQVltZkxfRzVBX0J4RTBibTVfMmJSWTZwNDNhaXhyb3Z0R1hT?oc=5"
-  },
-  {
-   "title": "임원 이어 오너까지…신영증권, 퇴직연금 설계에 상속·증여 담았다",
-   "source": "더팩트",
-   "date": "11.25 11:24",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1STXJka3BQdjNiYlFUNWhtczFheG5oRW1Ib2hTVWt0WlZoWi1IOEZlTGo4bTVZQXpDTmNEOHJvTmpsQlJwSFAySUdEN1VEYjlwaC1WQdIBVEFVX3lxTE1STXJka3BQdjNiYlFUNWhtczFheG5oRW1Ib2hTVWt0WlZoWi1IOEZlTGo4bTVZQXpDTmNEOHJvTmpsQlJwSFAySUdEN1VEYjlwaC1WQQ?oc=5"
   },
   {
    "title": "HK이노엔·키움증권, 컨디션·퇴직연금 연계 팝업 '크크펜션' 운영",
@@ -361,16 +331,16 @@
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB4d0dxTXh0V3hFaG9hbG9YdkVPVTFFWEJrUHJkaFQ5ZlBSNWdHa25ndFhBMWw3X0JNYTh4RFFwR2MyMTJwS0ZmaEx3Yk9hQQ?oc=5"
   },
   {
-   "title": "“트럼프, 퇴직연금까지 反ESG” 퇴직연금 투자 규정서 ESG 삭제 추진, 장기 투자금 필요한 친환경 사업 ‘먹구름’",
-   "source": "The Economy Korea",
-   "date": "11.25 11:13",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XUlJmU0VHLXV2NHdFbF9RbDFGM0VCa1NpSEpqN1JvUUJCRXZtTTdRSGwtY19ZNFRGb2JpV2pzQ1Q2bnEtRkthdjZRR3V1T0paN3FPal9CdUhXSDQ?oc=5"
-  },
-  {
    "title": "[기고] 불장에 휩쓸린 퇴직연금…지금 점검해야 할 3가지",
    "source": "뉴스웍스",
    "date": "11.25 10:44",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1odkhaeWxTZjVpamF0c2xtY1lPNTJXLTEwZGg1U1BPMTFZTkJueHBnTlFWLW1UbUFCYWxpdmFfbUJPVUdqWUV6OVV0d2Y4UHNNVUdJNUVUTHJ2TVdWV2lVbEpnbVo1SmkzTUVYR1I0QdIBc0FVX3lxTE9nN05ieDhEZnVRWkN5R0phMlBSc2NBM3VhMVgxWE1CTHhyM0pmVFNhcUItaHFZNHNua29CTE4tZEJvb0liSk82cjVNVGV2YlQ5U3RvZ1lwdEdKYkJXS3NOMjUzWDNFZXI4MGR4MnRHcUE2V2c?oc=5"
+  },
+  {
+   "title": "’저축’→’운용’으로 자산무대 교체…81개 기업연금 사령탑 광화문 총집결 By EBN",
+   "source": "Investing.com 한국어",
+   "date": "11.25 10:26",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNb0hsWGljZlZhSzFRZktrcGFqRjE1MmY1aUhJTEIwaU1EVzdkSTlaTFE1UTdCTDFoVm9vNlpNVXNHTVNfdEtzMS00NmktMXBkRjFHQ1h0am14eFRsT0JFcGVrQVFOZHBjWUJRVnU1RUE?oc=5"
   },
   {
    "title": "HK이노엔, 키움증권과 색다른 협업…컨디션·퇴직연금 팝업",
@@ -379,28 +349,16 @@
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91a1VpZFhDVWgwbXZ6NDNqUXV1Ym84ZHBHeExGQWpkb3R1dDhESk1XQzVoZDBfeG5WcDQ5eUw1bEZ5SWlEOUtjN0hhcExTSmFRRC14VHJXMkpjRHROQnp4VDF0bU92Zk1QSFR3?oc=5"
   },
   {
-   "title": "\"퇴직연금 안전자산 30%도 투자\"…KB운용, TDF ETF '인기'",
-   "source": "뉴스핌",
-   "date": "11.25 09:22",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xejFaQWZsYjdYRkhCcmo4ZW9ZZ3lMcFRSNG9MX21Rc1k2ME5YNFZHaG9nVmZxT3l0Yjg4ZFhCNk4tQmZXMy15UUZweWx2T0c2cndzM3dWNXo3bmV0?oc=5"
-  },
-  {
-   "title": "HK이노엔·키움증권, 퇴직연금 팝업스토어 운영",
-   "source": "뉴스핌",
-   "date": "11.25 08:51",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoLWktTU00cW1KQkNlaEFhRElHbC1iUU1KMWJZOEN5M2xPMEhaNkdWZ0VORVNpMDVvSGs4WXhwNE91QTd2OXpHVU5MdjBzRG12YUFoUUpRQzNHQzk0?oc=5"
-  },
-  {
    "title": "“노후자금으로 환경운동 마라”…퇴직연금서 ESG펀드 빼라는 트럼프",
-   "source": "매일경제",
+   "source": "매일경제 마켓",
    "date": "11.25 06:31",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oYzBWTzdzT1ppT3pidEx2NUZwdllPVUxheWlEV1BIUW9IWjFGc1BGYUNwNkdkU2UzY053dExpdlNJd2djaGc1VDJFb3ZROEwwaTVZYw?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJNFRydlZoUnFhcVhQa3hSQUFzcms1S05IU2wwNlBfeHBFa2dsRjZ6ZS1fN2RpYUN4eF9XZGdCSVhOcEEyWGdwOVdDYk15UElQVkE?oc=5"
   },
   {
-   "title": "트럼프, 美 퇴직연금 ESG 투자 제한 추진…친환경 정책 뒤집기 본격화",
-   "source": "공정뉴스",
-   "date": "11.25 02:57",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GaFZBVHhaVVZFSUVITmF3QV9OLUNNd0N5eDFzSnhwbXBjbTN1MmpJb0lKb2dlN2VVME1sdFlQbkhzVmFrbk5yVGcxUFplVkpRR2YxTXpRYW9YcGp6cUZaZHFTTV9aWjhPcEE?oc=5"
+   "title": "‘노동 대가ㆍ노후 보장’ 함께잡는 퇴직연금[정책발언대]",
+   "source": "이투데이",
+   "date": "11.25 06:00",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NVFFCZ2d5WGt0azlNT0E1Tkdjb1ExN0sxV3c0MHBSSDVrb0tMdlBlVGpXUFJVSXRxa3VjaHdsUVFIZ01adDFES1JjTlQ1d1ZMMHhCdQ?oc=5"
   },
   {
    "title": "케이뱅크, 연 최고 3.89% 정기예금으로 퇴직연금 시장 진출",
@@ -421,22 +379,28 @@
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ERnF3Tm0wQkl5S0RLYlZyMXBFNTJnVjlGeDRrc0Rpd3lJX0F0dDFrYmtnb2I1bi1LNFZKNDkxRzR3VEc3WnhrM1hBR3RRQkRzcmpTRm5lMFpkbVVaN0V1eEJzUy1aMTNZUHpuaC1yRQ?oc=5"
   },
   {
-   "title": "한화생명, IRP 상품 매도 없이 연금 받는 '라이프핏 연금' 출시",
-   "source": "더팩트",
-   "date": "11.24 15:23",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BSDZQV3JZbnplVUY5eTFzeTdBYXJBUV9qdUJpMWdhQmZiMk1JYmdTVGdlekF2czdDVGd6a0M5bkt5T2RoVTlZanRjNnZoLVVfTm5JX9IBVEFVX3lxTE5BSDZQV3JZbnplVUY5eTFzeTdBYXJBUV9qdUJpMWdhQmZiMk1JYmdTVGdlekF2czdDVGd6a0M5bkt5T2RoVTlZanRjNnZoLVVfTm5JXw?oc=5"
-  },
-  {
    "title": "케이뱅크, 퇴직연금 상품 공급시장 진출…최고 연 3.89% 정기예금 출시",
    "source": "포춘코리아",
    "date": "11.24 14:58",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1seURiRUsySlhPdXZjUllGYnl5YTE3VlZaSU5MZDd2dlZGTDQ3clF0N3pnc1NPbklmNU5YRnZ4OURpM0R6cFVOTUszdlRrODVXd0NuMDN4ZFZjZ3pabGVnT2pQZTR6cnFMUnZpT3c3RS1QQdIBdkFVX3lxTE4xSVBOWU55OVlfRDRrX1lBQ2NQTXdKWi0wSE9NdndVV2F0QTEwTWRXenVHUXp6b2taSzlRdUFaTThxa3V5Qk5DSmJtR2dBNDhHZzk2R3lXdUxqc1VmOWoyOUstTE5TR1pCVVZFMmZzSF9XSnJZSnc?oc=5"
   },
   {
+   "title": "[더밸류 브리핑] 오늘의 KB국민은행 소식...퇴직연금 수수료 인하·K-방산 협력사 금융지원",
+   "source": "더밸류뉴스",
+   "date": "11.24 14:20",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51ZGFYVG12c1YwVFp2TUdBSy16NzNiNGU5Slp2WTVCUllEQzhOR0NQQnBHdFdCYUEwb2JNWnEybGdRRHJYOU9tQ1FJWjBpUU5qNldsLQ?oc=5"
+  },
+  {
    "title": "“퇴직연금 수수료 최대 0.20%p 인하”…국민은행, 중소기업 비용 부담 낮춘다",
    "source": "디지털데일리",
    "date": "11.24 13:54",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uQkpibDRHcE5COFZVNjYzbDNVN2lBaVhha1cza2dqX2V5SlMzSEs1MzBid0NIaFpxN1JuM0xIRkE3Z3VGaUNES0MxNC15TmZ2UWh6RFdVMWxjT3E2SVo1WkdJQTI?oc=5"
+  },
+  {
+   "title": "KB국민은행, 기업형 퇴직연금 수수료 최대 0.20%p 인하…27일부터 할인 대상도 확대",
+   "source": "녹색경제신문",
+   "date": "11.24 13:53",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IV3g4RTQ3RS13cXAtbHFRakVNTGVsX2c1RkFfc3M4Vm8wVGlNajFhdVlzeE5OaWNrcTNFRk9aTlVWSks3aE1Kek1KYW1CRmloWVh2WXdwQi00RjEzX1pYbzNlUXlmalVo?oc=5"
   },
   {
    "title": "KB국민은행, 기업형 퇴직연금 수수료 인하··· K-방산 협력사 금융 지원 확대",
@@ -469,6 +433,12 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBERlBWOVAxeU41UHhKV1d3MjVOcnlPd3YzbWN1XzI1Q3ZienZxOUMtM2NsdnlUNHo0YUJpWlNqWTNHOEgtZS1LTVI0Q2pOb0pySkpza0JR?oc=5"
   },
   {
+   "title": "케이뱅크, 퇴직연금 사업 영역 넓힌다…자체 예금 첫 출시",
+   "source": "뉴스웍스",
+   "date": "11.24 10:24",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WZ2Y5T05mdE1PVlBqbkREbWVydE5MZUk3NlZSY0JSc3lRVzN4Mi16aWxKYXFmNldkeTg0anhUMENtSmxMV09mdTFhZkxnSFRWTXlFcjZqaEdFLVcyVVlDYmQ1V1U4WVYwZ2dMLUxfc9IBc0FVX3lxTFBDVThxc2RNRGpnOGlhOXJ4ZmtvTGdSWU1qWGN3NlpLdGxpSlhyS1E1Wm9talU4bWVEZzBuUGdQc1czNDBJb01GR08zeFZScGtfc1hUUkFLTXNYN2g5SDBHaTZ0U3c5V0xiMVJKZlZVbTA1clU?oc=5"
+  },
+  {
    "title": "케이뱅크, 최고 연 3.89% 퇴직연금 상품 공급사업 진출",
    "source": "매일일보",
    "date": "11.24 10:23",
@@ -487,6 +457,12 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoR0FkTGNTNkRHTUhrZTgtUksyWUZzMlZ6Sl9XNlh5MGdIRGEyV0FUbms5ay1RNlNQRHpFS0FRZWZtUmd4YkRRdVgyT1Q5UzJvZHdYTnVLWkJidw?oc=5"
   },
   {
+   "title": "국민은행, 기업형 퇴직연금 수수료 낮춘다…최대 0.20%p 인하",
+   "source": "뉴스웍스",
+   "date": "11.24 09:40",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GclFUZ1h5amJMX3I5QTZubmRLX3ByOFpyNDRWUjRLRnBfc3ZsUkRqeUJMUm9XdGlWbEtzZkxCRmJzelpmeXNCMG1qQVUtejV0eE84bVhMMEZ6NXFsRzFEZjlCV1hjb0tpZGIyLVZhTdIBc0FVX3lxTE5uYkZiSFZ3d0JlUHdHTmp0WU95aXY0ajFqSVU4Qm0xMjdNSG9BQjVtcGx4WXJxa3hRQkViVFY4Q2NVR3lkSXo1T08taF9xcjhXUTVYajhBRXk5a3BNdTFMMWVLTmhsZmhESC03U2JrWkVOdm8?oc=5"
+  },
+  {
    "title": "미래에셋생명, 퇴직연금 세미나 개최…입법 동향·운용 전략 공유",
    "source": "KB Think",
    "date": "11.24 09:40",
@@ -497,6 +473,12 @@
    "source": "연합뉴스",
    "date": "11.24 09:34",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fWmdVaXVIT0h3eDNGUkNsNEZnTHFGV3BZcVRyUk40SkN6anpkYXdrWXFOVXIyLS1XREZHdFd0M3cxSVFYTFFBYXN6OXUwak1XRWhOYVlaNTFxY1HSAWBBVV95cUxOMk5SMzFZSFJyZGpxdmNINnFHNlhtR0NjdzFHYmgxV0N6d0pJOVFkNTJFT1IwLU9oV2tJeV9kZjJ6b1k5ekJiV0tETTEzZGE2SzhXb3JOOWF5Sk02UFVYTjQ?oc=5"
+  },
+  {
+   "title": "케이뱅크, 퇴직연금 예금 금리 최고 연 3.89% 제공",
+   "source": "글로벌이코노믹",
+   "date": "11.24 09:31",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYThpQmw0WXppMEZhVmxkbDJveGFDamNySWNZT2F5VkNDak1ZbWRvWWVPRUpfbUtrTEFYVnB5TURoTFJSRDJzWXcwNjlBaHZ1X2M4anRDMWdUOXg2a0xXd19yY0pFWmFmNEVzV1gzMkpnd05Qb3dnU3o3WlJKZXdWaGxtZnM?oc=5"
   },
   {
    "title": "KB국민은행, 기업형 퇴직연금 수수료 인하…운영 부담 완화",
@@ -629,7 +611,7 @@
  "retire": [
   {
    "company": "NH농협은행",
-   "count": 13,
+   "count": 14,
    "people": "",
    "latest": {
     "title": "NH농협은행, 만 40세 이상 명예퇴직 실시…최대 40개월치 임금 지급",
@@ -672,7 +654,7 @@
   },
   {
    "company": "기타 기업",
-   "count": 52,
+   "count": 51,
    "people": "",
    "latest": {
     "title": "\"9급 시험 고졸 수준\" 부산인재개발원장 명예퇴직 신청",
@@ -714,8 +696,8 @@
    ]
   }
  ],
- "retire_updated": "2026-11-26 18:38",
- "news_updated": "2026-11-26 18:38",
- "bids_updated": "2026-11-26 18:38",
- "updated": "2026-11-26 18:38"
+ "retire_updated": "2026-11-26 19:46",
+ "news_updated": "2026-11-26 19:46",
+ "bids_updated": "2026-11-26 19:46",
+ "updated": "2026-11-26 19:46"
 }
