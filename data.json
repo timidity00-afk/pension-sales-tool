@@ -617,7 +617,10 @@
    "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01790018&bidPbancOrd=000"
   }
  ],
- "notes": [],
+ "notes": [
+  "기사 갱신에 실패해 이전 내용을 보여줍니다.",
+  "희망퇴직 현황 갱신에 실패해 이전 내용을 보여줍니다."
+ ],
  "sample": false,
  "retire": [
   {
@@ -709,6 +712,6 @@
  ],
  "retire_updated": "2026-11-27 08:21",
  "news_updated": "2026-11-27 08:21",
- "bids_updated": "2026-11-27 08:21",
- "updated": "2026-11-27 08:21"
+ "bids_updated": "2026-11-27 09:19",
+ "updated": "2026-11-27 09:19"
 }
